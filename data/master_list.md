@@ -32,7 +32,7 @@ Total unique names: **1235**
 | Avenarith | avenarith.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Avronell | avronell.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Beastclad | beastclad.com | $11.08 | $11.08 | no | 0 | moggy_sigma | v2 |
-| Belvanor | belvanor.com |  |  |  | 0 | latin_long | v6 |
+| Belvanor | belvanor.com | $11.08 | $11.08 | no | 0 | latin_long | v6 |
 | Brawlsigma | brawlsigma.com | $11.08 | $11.08 | no | 0 | moggy_sigma | v2 |
 | Brawlstride | brawlstride.com | $11.08 | $11.08 | no | 0 | moggy_sigma | v2 |
 | Braxenor | braxenor.com | $11.08 | $11.08 | no | 0 | tech_general | v4 |
@@ -53,7 +53,7 @@ Total unique names: **1235**
 | Calbaxis | calbaxis.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Calbonia | calbonia.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Caldord | caldord.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
-| Caldreth | caldreth.com |  |  |  | 0 | latin_long | v6 |
+| Caldreth | caldreth.com | $11.08 | $11.08 | no | 0 | latin_long | v6 |
 | Caldroma | caldroma.com | $11.08 | $11.08 | no | 0 | tech_general | v4 |
 | Caldwellan | caldwellan.com | $11.08 | $11.08 | no | 0 | pro_invented_long | v1 |
 | Calivity | calivity.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
@@ -63,7 +63,7 @@ Total unique names: **1235**
 | Calovaris | calovaris.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Caltheria | caltheria.com | $11.08 | $11.08 | no | 0 | tech_general | v4 |
 | Calvedos | calvedos.com | $11.08 | $11.08 | no | 0 | enterprise_invented | v2 |
-| Calvendris | calvendris.com |  |  |  | 0 | latin_long | v6 |
+| Calvendris | calvendris.com | $11.08 | $11.08 | no | 0 | latin_long | v6 |
 | Calveriant | calveriant.com | $11.08 | $11.08 | no | 0 | tech_general | v4 |
 | Carendrik | carendrik.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | ClarksonForge | clarksonforge.com | $11.08 | $11.08 | no | 0 | geographic | v1 |
@@ -83,7 +83,7 @@ Total unique names: **1235**
 | Crovedell | crovedell.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Daravost | daravost.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Dornalba | dornalba.com | $11.08 | $11.08 | no | 0 | tech_general | v4 |
-| Dornavik | dornavik.com |  |  |  | 0 | latin_long | v6 |
+| Dornavik | dornavik.com | $11.08 | $11.08 | no | 0 | latin_long | v6 |
 | Drelmara | drelmara.com | $11.08 | $11.08 | no | 0 | tech_general | v4 |
 | Dremto | dremto.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Drevandel | drevandel.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
@@ -92,7 +92,7 @@ Total unique names: **1235**
 | Drovendel | drovendel.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Edwarra | edwarra.com | $11.08 | $11.08 | no | 0 | tech_general | v4 |
 | Elmpath | elmpath.com | $11.08 | $11.08 | no | 0 | two_word_pro | v1 |
-| Endorath | endorath.com |  |  |  | 0 | latin_long | v6 |
+| Endorath | endorath.com | $11.08 | $11.08 | no | 0 | latin_long | v6 |
 | Endorica | endorica.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Endrelith | endrelith.com | $11.08 | $11.08 | no | 0 | pro_invented_long | v1 |
 | Erelta | erelta.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
@@ -100,7 +100,7 @@ Total unique names: **1235**
 | Eronvell | eronvell.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Ervaron | ervaron.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Felvelta | felvelta.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
-| Fendaris | fendaris.com |  |  |  | 0 | latin_long | v6 |
+| Fendaris | fendaris.com | $11.08 | $11.08 | no | 0 | latin_long | v6 |
 | Fernivex | fernivex.com | $11.08 | $11.08 | no | 0 | tech_general | v4 |
 | Forenvar | forenvar.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Frovendel | frovendel.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
@@ -108,7 +108,7 @@ Total unique names: **1235**
 | Gavandrik | gavandrik.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Gelvelta | gelvelta.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Glexandra | glexandra.com | $11.08 | $11.08 | no | 0 | tech_general | v4 |
-| Gorvanth | gorvanth.com |  |  |  | 0 | latin_long | v6 |
+| Gorvanth | gorvanth.com | $11.08 | $11.08 | no | 0 | latin_long | v6 |
 | Granitewright | granitewright.com | $11.08 | $11.08 | no | 0 | two_word_pro | v1 |
 | Gravaron | gravaron.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Grendalor | grendalor.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
@@ -121,7 +121,7 @@ Total unique names: **1235**
 | Holvarith | holvarith.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Holvor | holvor.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Hrovendell | hrovendell.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
-| Indralor | indralor.com |  |  |  | 0 | latin_long | v6 |
+| Indralor | indralor.com | $11.08 | $11.08 | no | 0 | latin_long | v6 |
 | Indrelta | indrelta.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Irovendel | irovendel.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Iverando | iverando.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
@@ -130,7 +130,7 @@ Total unique names: **1235**
 | Jorvant | jorvant.com | $11.08 | $11.08 | no | 0 | tech_general | v4 |
 | Jorvenor | jorvenor.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Jovaron | jovaron.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
-| Jovendar | jovendar.com |  |  |  | 0 | latin_long | v6 |
+| Jovendar | jovendar.com | $11.08 | $11.08 | no | 0 | latin_long | v6 |
 | Jovenrik | jovenrik.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Jrovendel | jrovendel.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Kalvto | kalvto.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
@@ -172,7 +172,7 @@ Total unique names: **1235**
 | Karvostra | karvostra.com | $11.08 | $11.08 | no | 0 | tech_general | v4 |
 | Karvtor | karvtor.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Karvwave | karvwave.com | $11.08 | $11.08 | no | 0 | tech_general | v4 |
-| Korvelis | korvelis.com |  |  |  | 0 | latin_long | v6 |
+| Korvelis | korvelis.com | $11.08 | $11.08 | no | 0 | latin_long | v6 |
 | Kraviant | kraviant.com | $11.08 | $11.08 | no | 0 | tech_general | v4 |
 | Krelantha | krelantha.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Krendar | krendar.com | $11.08 | $11.08 | no | 0 | tech_general | v4 |
@@ -180,7 +180,7 @@ Total unique names: **1235**
 | Krevelta | krevelta.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Krovendel | krovendel.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | LakeshoreCraft | lakeshorecraft.com | $11.08 | $11.08 | no | 0 | geographic | v1 |
-| Lendrith | lendrith.com |  |  |  | 0 | latin_long | v6 |
+| Lendrith | lendrith.com | $11.08 | $11.08 | no | 0 | latin_long | v6 |
 | Lentivex | lentivex.com | $11.08 | $11.08 | no | 0 | compound_modern | v1 |
 | Lerovant | lerovant.com | $11.08 | $11.08 | no | 0 | tech_general | v4 |
 | Lervadom | lervadom.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
@@ -277,7 +277,7 @@ Total unique names: **1235**
 | Nordendros | nordendros.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Norindra | norindra.com | $11.08 | $11.08 | no | 0 | tech_general | v4 |
 | Norvanence | norvanence.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
-| Norvanis | norvanis.com |  |  |  | 0 | latin_long | v6 |
+| Norvanis | norvanis.com | $11.08 | $11.08 | no | 0 | latin_long | v6 |
 | Norvanova | norvanova.com | $11.08 | $11.08 | no | 0 | tech_general | v4 |
 | Norvantheria | norvantheria.com | $11.08 | $11.08 | no | 0 | tech_general | v4 |
 | Norvarica | norvarica.com | $11.08 | $11.08 | no | 0 | tech_general | v4 |
@@ -366,13 +366,13 @@ Total unique names: **1235**
 | Orovendel | orovendel.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Orvarist | orvarist.com | $11.08 | $11.08 | no | 0 | tech_general | v4 |
 | Orvelantha | orvelantha.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
-| Ostralor | ostralor.com |  |  |  | 0 | latin_long | v6 |
+| Ostralor | ostralor.com | $11.08 | $11.08 | no | 0 | latin_long | v6 |
 | Pelanta | pelanta.com | $11.08 | $11.08 | no | 0 | enterprise_invented | v2 |
 | Pelmarist | pelmarist.com | $11.08 | $11.08 | no | 0 | tech_general | v4 |
 | Pelmaron | pelmaron.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Pelvarith | pelvarith.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Pelvarum | pelvarum.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
-| Pendarix | pendarix.com |  |  |  | 0 | latin_long | v6 |
+| Pendarix | pendarix.com | $11.08 | $11.08 | no | 0 | latin_long | v6 |
 | Pinewright | pinewright.com | $11.08 | $11.08 | no | 0 | two_word_pro | v1,v6 |
 | Plenadron | plenadron.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Plenandel | plenandel.com | $11.08 | $11.08 | no | 0 | enterprise_invented | v2 |
@@ -399,15 +399,15 @@ Total unique names: **1235**
 | PortCreditWorks | portcreditworks.com | $11.08 | $11.08 | no | 0 | geographic | v1 |
 | Praetorforge | praetorforge.com | $11.08 | $11.08 | no | 0 | greek_roman_chad | v2 |
 | Praetorworks | praetorworks.com | $11.08 | $11.08 | no | 0 | greek_roman_chad | v2 |
-| Pravantis | pravantis.com |  |  |  | 0 | latin_long | v6 |
+| Pravantis | pravantis.com | $11.08 | $11.08 | no | 0 | latin_long | v6 |
 | Praxivant | praxivant.com | $11.08 | $11.08 | no | 0 | compound_modern | v1 |
 | Provendel | provendel.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Qrovendel | qrovendel.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Quintaroth | quintaroth.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Quivendor | quivendor.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
-| Quorvanth | quorvanth.com |  |  |  | 0 | latin_long | v6 |
+| Quorvanth | quorvanth.com | $11.08 | $11.08 | no | 0 | latin_long | v6 |
 | Renvardel | renvardel.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
-| Renvarith | renvarith.com |  |  |  | 0 | latin_long | v4,v6 |
+| Renvarith | renvarith.com | $11.08 | $11.08 | no | 0 | latin_long | v4,v6 |
 | Resvanrik | resvanrik.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Romulusforge | romulusforge.com | $11.08 | $11.08 | no | 0 | greek_roman_chad | v2 |
 | Romulusworks | romulusworks.com | $11.08 | $11.08 | no | 0 | greek_roman_chad | v2 |
@@ -423,7 +423,7 @@ Total unique names: **1235**
 | Solderon | solderon.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Soldord | soldord.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Solendrik | solendrik.com | $11.08 | $11.08 | no | 0 | pro_invented_long | v1 |
-| Solendris | solendris.com |  |  |  | 0 | latin_long | v6 |
+| Solendris | solendris.com | $11.08 | $11.08 | no | 0 | latin_long | v6 |
 | Solovaris | solovaris.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Solvedos | solvedos.com | $11.08 | $11.08 | no | 0 | enterprise_invented | v2 |
 | Solwright | solwright.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
@@ -431,7 +431,7 @@ Total unique names: **1235**
 | Sondrik | sondrik.com | $11.08 | $11.08 | no | 0 | pro_invented_short | v1 |
 | Srovendel | srovendel.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Standpath | standpath.com | $11.08 | $11.08 | no | 0 | two_word_pro | v1 |
-| Steelmere | steelmere.com |  |  |  | 0 | two_word | v6 |
+| Steelmere | steelmere.com | $11.08 | $11.08 | no | 0 | two_word | v6 |
 | Stelandel | stelandel.com | $11.08 | $11.08 | no | 0 | enterprise_invented | v2 |
 | Stelanence | stelanence.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Stelanta | stelanta.com | $11.08 | $11.08 | no | 0 | enterprise_invented | v2 |
@@ -453,7 +453,7 @@ Total unique names: **1235**
 | Stelplex | stelplex.com | $11.08 | $11.08 | no | 0 | compound_modern | v1 |
 | Stelridge | stelridge.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Stelvant | stelvant.com | $11.08 | $11.08 | no | 0 | compound_modern | v1 |
-| Stelvarin | stelvarin.com |  |  |  | 0 | latin_long | v6 |
+| Stelvarin | stelvarin.com | $11.08 | $11.08 | no | 0 | latin_long | v6 |
 | Stelvarra | stelvarra.com | $11.08 | $11.08 | no | 0 | pro_invented_long | v1 |
 | Stelvedos | stelvedos.com | $11.08 | $11.08 | no | 0 | enterprise_invented | v2 |
 | Stelveric | stelveric.com | $11.08 | $11.08 | no | 0 | enterprise_invented | v2 |
@@ -478,7 +478,7 @@ Total unique names: **1235**
 | Ulvenarith | ulvenarith.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Urovendel | urovendel.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Uvendrik | uvendrik.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
-| Velvarith | velvarith.com |  |  |  | 0 | latin_long | v6 |
+| Velvarith | velvarith.com | $11.08 | $11.08 | no | 0 | latin_long | v6 |
 | Vendanence | vendanence.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Vendarith | vendarith.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
 | Vendaron | vendaron.com | $11.08 | $11.08 | no | 0 | tech_general | v5 |
@@ -493,10 +493,10 @@ Total unique names: **1235**
 | Vermarrick | vermarrick.com | $11.08 | $11.08 | no | 0 | pro_invented_long | v1 |
 | Vernath | vernath.com | $11.08 | $11.08 | no | 0 | pro_invented_short | v1 |
 | Verond | verond.com | $11.08 | $11.08 | no | 0 | pro_invented_short | v1 |
-| Wendraris | wendraris.com |  |  |  | 0 | latin_long | v6 |
+| Wendraris | wendraris.com | $11.08 | $11.08 | no | 0 | latin_long | v6 |
 | Wolfsavage | wolfsavage.com | $11.08 | $11.08 | no | 0 | moggy_sigma | v2 |
 | Wolfthrust | wolfthrust.com | $11.08 | $11.08 | no | 0 | moggy_sigma | v2 |
-| Xervanth | xervanth.com |  |  |  | 0 | latin_long | v6 |
+| Xervanth | xervanth.com | $11.08 | $11.08 | no | 0 | latin_long | v6 |
 
 ## All names (alphabetical)
 
@@ -532,7 +532,7 @@ Total unique names: **1235**
 | Beastforge | beastforge.com |  | UNKNOWN |  |  | moggy_sigma | v2 |
 | Beastsavage | beastsavage.com |  | UNKNOWN |  |  | moggy_sigma | v2 |
 | Beastvault | beastvault.com |  | UNKNOWN |  |  | moggy_sigma | v2 |
-| Belvanor | belvanor.com | AVAILABLE | CLEAR | 0 |  | latin_long | v6 |
+| Belvanor | belvanor.com | AVAILABLE | CLEAR | 0 | $11.08 | latin_long | v6 |
 | Boldfield | boldfield.com |  | UNKNOWN |  |  | tech_general | v5 |
 | Boldgrove | boldgrove.com | TAKEN | TAKEN | 0 |  | two_word | v6 |
 | Boldport | boldport.com |  | UNKNOWN |  |  | tech_general | v5 |
@@ -592,7 +592,7 @@ Total unique names: **1235**
 | Caldix | caldix.com | TAKEN | TAKEN | 0 |  | short_invented | v6 |
 | Caldord | caldord.com | AVAILABLE | CLEAR | 0 | $11.08 | tech_general | v5 |
 | Caldova | caldova.com |  | UNKNOWN |  |  | tech_general | v5 |
-| Caldreth | caldreth.com | AVAILABLE | CLEAR | 0 |  | latin_long | v6 |
+| Caldreth | caldreth.com | AVAILABLE | CLEAR | 0 | $11.08 | latin_long | v6 |
 | Caldroma | caldroma.com | AVAILABLE | CLEAR | 0 | $11.08 | tech_general | v4 |
 | Caldwell | caldwell.com |  | UNKNOWN |  |  | compound_modern | v1 |
 | Caldwellan | caldwellan.com | AVAILABLE | CLEAR | 0 | $11.08 | pro_invented_long | v1 |
@@ -633,7 +633,7 @@ Total unique names: **1235**
 | Caltris | caltris.com |  | UNKNOWN |  |  | pro_invented_short | v1 |
 | Calvant | calvant.com |  | UNKNOWN |  |  | compound_modern | v1 |
 | Calvedos | calvedos.com | AVAILABLE | CLEAR | 0 | $11.08 | enterprise_invented | v2 |
-| Calvendris | calvendris.com | AVAILABLE | CLEAR | 0 |  | latin_long | v6 |
+| Calvendris | calvendris.com | AVAILABLE | CLEAR | 0 | $11.08 | latin_long | v6 |
 | Calver | calver.com |  | UNKNOWN |  |  | enterprise_invented | v2 |
 | Calveria | calveria.com |  | UNKNOWN |  |  | pro_invented_long | v1 |
 | Calverian | calverian.com |  | UNKNOWN |  |  | pro_invented_long | v1 |
@@ -693,7 +693,7 @@ Total unique names: **1235**
 | Datrix | datrix.com |  | UNKNOWN |  |  | tech_mid | v3 |
 | Domvora | domvora.com |  | UNKNOWN |  |  | tech_general | v5 |
 | Dornalba | dornalba.com | AVAILABLE | CLEAR | 0 | $11.08 | tech_general | v4 |
-| Dornavik | dornavik.com | AVAILABLE | CLEAR | 0 |  | latin_long | v6 |
+| Dornavik | dornavik.com | AVAILABLE | CLEAR | 0 | $11.08 | latin_long | v6 |
 | Dornova | dornova.com |  | UNKNOWN |  |  | tech_general | v4 |
 | Drelmara | drelmara.com | AVAILABLE | CLEAR | 0 | $11.08 | tech_general | v4 |
 | Dremara | dremara.com |  | UNKNOWN |  |  | tech_general | v4 |
@@ -705,7 +705,7 @@ Total unique names: **1235**
 | Eastpath | eastpath.com | TAKEN | TAKEN | 0 |  | two_word | v6 |
 | Edwarra | edwarra.com | AVAILABLE | CLEAR | 0 | $11.08 | tech_general | v4 |
 | Elmpath | elmpath.com | AVAILABLE | CLEAR | 0 | $11.08 | two_word_pro | v1 |
-| Endorath | endorath.com | AVAILABLE | CLEAR | 0 |  | latin_long | v6 |
+| Endorath | endorath.com | AVAILABLE | CLEAR | 0 | $11.08 | latin_long | v6 |
 | Endorica | endorica.com | AVAILABLE | CLEAR | 0 | $11.08 | tech_general | v5 |
 | Endrelith | endrelith.com | AVAILABLE | CLEAR | 0 | $11.08 | pro_invented_long | v1 |
 | Endurion | endurion.com | TAKEN | TAKEN | 0 |  | latin_long | v6 |
@@ -716,7 +716,7 @@ Total unique names: **1235**
 | Ervaron | ervaron.com | AVAILABLE | CLEAR | 0 | $11.08 | tech_general | v5 |
 | Felvaron | felvaron.com |  | UNKNOWN |  |  | tech_general | v5 |
 | Felvelta | felvelta.com | AVAILABLE | CLEAR | 0 | $11.08 | tech_general | v5 |
-| Fendaris | fendaris.com | AVAILABLE | CLEAR | 0 |  | latin_long | v6 |
+| Fendaris | fendaris.com | AVAILABLE | CLEAR | 0 | $11.08 | latin_long | v6 |
 | Fendro | fendro.com | TAKEN | TAKEN | 0 |  | short_invented | v6 |
 | Ferenova | ferenova.com |  | UNKNOWN |  |  | tech_general | v5 |
 | Fernivex | fernivex.com | AVAILABLE | CLEAR | 0 | $11.08 | tech_general | v4 |
@@ -735,7 +735,7 @@ Total unique names: **1235**
 | Glexa | glexa.com |  | UNKNOWN |  |  | enterprise_invented | v2 |
 | Glexandra | glexandra.com | AVAILABLE | CLEAR | 0 | $11.08 | tech_general | v4 |
 | Glexar | glexar.com |  | UNKNOWN |  |  | tech_general | v4 |
-| Gorvanth | gorvanth.com | AVAILABLE | CLEAR | 0 |  | latin_long | v6 |
+| Gorvanth | gorvanth.com | AVAILABLE | CLEAR | 0 | $11.08 | latin_long | v6 |
 | Granitebay | granitebay.com | TAKEN | TAKEN | 0 |  | two_word | v6 |
 | Granitewright | granitewright.com | AVAILABLE | CLEAR | 0 | $11.08 | two_word_pro | v1 |
 | Gravaron | gravaron.com | AVAILABLE | CLEAR | 0 | $11.08 | tech_general | v5 |
@@ -760,7 +760,7 @@ Total unique names: **1235**
 | Hyperia | hyperia.com |  | UNKNOWN |  |  | tech_latin_abstract | v3 |
 | Hyperionforge | hyperionforge.com |  | UNKNOWN |  |  | greek_roman_chad | v2 |
 | Hyperionworks | hyperionworks.com |  | UNKNOWN |  |  | greek_roman_chad | v2 |
-| Indralor | indralor.com | AVAILABLE | CLEAR | 0 |  | latin_long | v6 |
+| Indralor | indralor.com | AVAILABLE | CLEAR | 0 | $11.08 | latin_long | v6 |
 | Indrar | indrar.com |  | UNKNOWN |  |  | tech_general | v5 |
 | Indrelta | indrelta.com | AVAILABLE | CLEAR | 0 | $11.08 | tech_general | v5 |
 | Ironbench | ironbench.com |  | UNKNOWN |  |  | two_word_pro | v1 |
@@ -775,7 +775,7 @@ Total unique names: **1235**
 | Jorvant | jorvant.com | AVAILABLE | CLEAR | 0 | $11.08 | tech_general | v4 |
 | Jorvenor | jorvenor.com | AVAILABLE | CLEAR | 0 | $11.08 | tech_general | v5 |
 | Jovaron | jovaron.com | AVAILABLE | CLEAR | 0 | $11.08 | tech_general | v5 |
-| Jovendar | jovendar.com | AVAILABLE | CLEAR | 0 |  | latin_long | v6 |
+| Jovendar | jovendar.com | AVAILABLE | CLEAR | 0 | $11.08 | latin_long | v6 |
 | Jovenrik | jovenrik.com | AVAILABLE | CLEAR | 0 | $11.08 | tech_general | v5 |
 | Jrovendel | jrovendel.com | AVAILABLE | CLEAR | 0 | $11.08 | tech_general | v5 |
 | Kalvor | kalvor.com |  | UNKNOWN |  |  | tech_general | v5 |
@@ -828,7 +828,7 @@ Total unique names: **1235**
 | Karvtor | karvtor.com | AVAILABLE | CLEAR | 0 | $11.08 | tech_general | v5 |
 | Karvwave | karvwave.com | AVAILABLE | CLEAR | 0 | $11.08 | tech_general | v4 |
 | Kelven | kelven.com |  | UNKNOWN |  |  | modern_abstract | v1 |
-| Korvelis | korvelis.com | AVAILABLE | CLEAR | 0 |  | latin_long | v6 |
+| Korvelis | korvelis.com | AVAILABLE | CLEAR | 0 | $11.08 | latin_long | v6 |
 | Korven | korven.com |  | UNKNOWN |  |  | modern_abstract | v1 |
 | Kraviant | kraviant.com | AVAILABLE | CLEAR | 0 | $11.08 | tech_general | v4 |
 | Krelantha | krelantha.com | AVAILABLE | CLEAR | 0 | $11.08 | tech_general | v5 |
@@ -848,7 +848,7 @@ Total unique names: **1235**
 | Lavron | lavron.com |  | UNKNOWN |  |  | tech_general | v5 |
 | Lendara | lendara.com | TAKEN | TAKEN | 0 |  | modern_startup | v6 |
 | Lendix | lendix.com | TAKEN | TAKEN | 1 |  | short_invented | v6 |
-| Lendrith | lendrith.com | AVAILABLE | CLEAR | 0 |  | latin_long | v6 |
+| Lendrith | lendrith.com | AVAILABLE | CLEAR | 0 | $11.08 | latin_long | v6 |
 | Lentivex | lentivex.com | AVAILABLE | CLEAR | 0 | $11.08 | compound_modern | v1 |
 | Lentro | lentro.com | TAKEN | TAKEN | 0 |  | short_invented | v6 |
 | Lenvora | lenvora.com | TAKEN | TAKEN | 0 |  | modern_startup | v6 |
@@ -1081,7 +1081,7 @@ Total unique names: **1235**
 | Northwell | northwell.com |  | UNKNOWN |  |  | tech_general | v5 |
 | Northwright | northwright.com |  | UNKNOWN |  |  | two_word_pro | v1 |
 | Norvanence | norvanence.com | AVAILABLE | CLEAR | 0 | $11.08 | tech_general | v5 |
-| Norvanis | norvanis.com | AVAILABLE | CLEAR | 0 |  | latin_long | v6 |
+| Norvanis | norvanis.com | AVAILABLE | CLEAR | 0 | $11.08 | latin_long | v6 |
 | Norvanova | norvanova.com | AVAILABLE | CLEAR | 0 | $11.08 | tech_general | v4 |
 | Norvant | norvant.com |  | UNKNOWN |  |  | compound_modern | v1 |
 | Norvanta | norvanta.com |  | UNKNOWN |  |  | enterprise_invented | v2 |
@@ -1211,7 +1211,7 @@ Total unique names: **1235**
 | Orvarist | orvarist.com | AVAILABLE | CLEAR | 0 | $11.08 | tech_general | v4 |
 | Orvelantha | orvelantha.com | AVAILABLE | CLEAR | 0 | $11.08 | tech_general | v5 |
 | Orvelta | orvelta.com |  | UNKNOWN |  |  | tech_general | v4 |
-| Ostralor | ostralor.com | AVAILABLE | CLEAR | 0 |  | latin_long | v6 |
+| Ostralor | ostralor.com | AVAILABLE | CLEAR | 0 | $11.08 | latin_long | v6 |
 | Patientwell | patientwell.com |  | UNKNOWN |  |  | two_word_pro | v1 |
 | Pegasos | pegasos.com |  | UNKNOWN |  |  | tech_latin_abstract | v3 |
 | Pelanta | pelanta.com | AVAILABLE | CLEAR | 0 | $11.08 | enterprise_invented | v2 |
@@ -1225,7 +1225,7 @@ Total unique names: **1235**
 | Pelvarith | pelvarith.com | AVAILABLE | CLEAR | 0 | $11.08 | tech_general | v5 |
 | Pelvarum | pelvarum.com | AVAILABLE | CLEAR | 0 | $11.08 | tech_general | v5 |
 | Pelvor | pelvor.com |  | UNKNOWN |  |  | tech_general | v5 |
-| Pendarix | pendarix.com | AVAILABLE | CLEAR | 0 |  | latin_long | v6 |
+| Pendarix | pendarix.com | AVAILABLE | CLEAR | 0 | $11.08 | latin_long | v6 |
 | Pengrid | pengrid.com |  | UNKNOWN |  |  | tech_modern | v3 |
 | Pinewright | pinewright.com | AVAILABLE | CLEAR | 0 | $11.08 | two_word_pro | v1,v6 |
 | Plenadron | plenadron.com | AVAILABLE | CLEAR | 0 | $11.08 | tech_general | v5 |
@@ -1293,7 +1293,7 @@ Total unique names: **1235**
 | Praetorforge | praetorforge.com | AVAILABLE | CLEAR | 0 | $11.08 | greek_roman_chad | v2 |
 | Praetorian | praetorian.com |  | UNKNOWN |  |  | greek_roman_chad | v2 |
 | Praetorworks | praetorworks.com | AVAILABLE | CLEAR | 0 | $11.08 | greek_roman_chad | v2 |
-| Pravantis | pravantis.com | AVAILABLE | CLEAR | 0 |  | latin_long | v6 |
+| Pravantis | pravantis.com | AVAILABLE | CLEAR | 0 | $11.08 | latin_long | v6 |
 | Pravara | pravara.com | TAKEN | TAKEN | 0 |  | modern_startup | v6 |
 | Praven | praven.com |  | UNKNOWN |  |  | modern_abstract | v1 |
 | Pravex | pravex.com |  | UNKNOWN |  |  | enterprise_invented | v2 |
@@ -1330,11 +1330,11 @@ Total unique names: **1235**
 | Quivox | quivox.com | TAKEN | TAKEN | 0 |  | modern_startup | v6 |
 | Quorelis | quorelis.com |  | UNKNOWN |  |  | tech_general | v4 |
 | Quorindra | quorindra.com |  | UNKNOWN |  |  | tech_general | v4 |
-| Quorvanth | quorvanth.com | AVAILABLE | CLEAR | 0 |  | latin_long | v6 |
+| Quorvanth | quorvanth.com | AVAILABLE | CLEAR | 0 | $11.08 | latin_long | v6 |
 | Quvara | quvara.com | TAKEN | TAKEN | 0 |  | modern_startup | v6 |
 | Quvora | quvora.com | TAKEN | TAKEN | 0 |  | short_invented | v6 |
 | Renvardel | renvardel.com | AVAILABLE | CLEAR | 0 | $11.08 | tech_general | v5 |
-| Renvarith | renvarith.com | AVAILABLE | CLEAR | 0 |  | latin_long | v4,v6 |
+| Renvarith | renvarith.com | AVAILABLE | CLEAR | 0 | $11.08 | latin_long | v4,v6 |
 | Renvor | renvor.com |  | UNKNOWN |  |  | tech_general | v5 |
 | Renvora | renvora.com |  | UNKNOWN |  |  | tech_general | v5 |
 | Resvanrik | resvanrik.com | AVAILABLE | CLEAR | 0 | $11.08 | tech_general | v5 |
@@ -1382,7 +1382,7 @@ Total unique names: **1235**
 | Soldova | soldova.com |  | UNKNOWN |  |  | tech_general | v5 |
 | Soldroma | soldroma.com |  | UNKNOWN |  |  | tech_general | v4 |
 | Solendrik | solendrik.com | AVAILABLE | CLEAR | 0 | $11.08 | pro_invented_long | v1 |
-| Solendris | solendris.com | AVAILABLE | CLEAR | 0 |  | latin_long | v6 |
+| Solendris | solendris.com | AVAILABLE | CLEAR | 0 | $11.08 | latin_long | v6 |
 | Solendros | solendros.com |  | UNKNOWN |  |  | tech_general | v4 |
 | Solenta | solenta.com |  | UNKNOWN |  |  | enterprise_invented | v2 |
 | Solenza | solenza.com |  | UNKNOWN |  |  | enterprise_invented | v2 |
@@ -1455,7 +1455,7 @@ Total unique names: **1235**
 | Steadwright | steadwright.com |  | UNKNOWN |  |  | two_word_pro | v1 |
 | Steadyline | steadyline.com |  | UNKNOWN |  |  | two_word_pro | v1 |
 | Steadyport | steadyport.com | TAKEN | TAKEN | 0 |  | two_word | v6 |
-| Steelmere | steelmere.com | AVAILABLE | CLEAR | 0 |  | two_word | v6 |
+| Steelmere | steelmere.com | AVAILABLE | CLEAR | 0 | $11.08 | two_word | v6 |
 | Stelandel | stelandel.com | AVAILABLE | CLEAR | 0 | $11.08 | enterprise_invented | v2 |
 | Stelandor | stelandor.com |  | UNKNOWN |  |  | tech_mid | v3 |
 | Stelanence | stelanence.com | AVAILABLE | CLEAR | 0 | $11.08 | tech_general | v5 |
@@ -1508,7 +1508,7 @@ Total unique names: **1235**
 | Stelsummit | stelsummit.com |  | UNKNOWN |  |  | tech_general | v4 |
 | Steltor | steltor.com |  | UNKNOWN |  |  | tech_general | v5 |
 | Stelvant | stelvant.com | AVAILABLE | CLEAR | 0 | $11.08 | compound_modern | v1 |
-| Stelvarin | stelvarin.com | AVAILABLE | CLEAR | 0 |  | latin_long | v6 |
+| Stelvarin | stelvarin.com | AVAILABLE | CLEAR | 0 | $11.08 | latin_long | v6 |
 | Stelvarra | stelvarra.com | AVAILABLE | CLEAR | 0 | $11.08 | pro_invented_long | v1 |
 | Stelvedos | stelvedos.com | AVAILABLE | CLEAR | 0 | $11.08 | enterprise_invented | v2 |
 | Stelven | stelven.com |  | UNKNOWN |  |  | pro_invented_short | v1 |
@@ -1610,7 +1610,7 @@ Total unique names: **1235**
 | Velnex | velnex.com |  | UNKNOWN |  |  | compound_modern | v1 |
 | Velnix | velnix.com |  | UNKNOWN |  |  | pro_invented_short | v1 |
 | Velorra | velorra.com |  | UNKNOWN |  |  | pro_invented_short | v1 |
-| Velvarith | velvarith.com | AVAILABLE | CLEAR | 0 |  | latin_long | v6 |
+| Velvarith | velvarith.com | AVAILABLE | CLEAR | 0 | $11.08 | latin_long | v6 |
 | Velvix | velvix.com | TAKEN | TAKEN | 0 |  | short_invented | v6 |
 | Velvor | velvor.com | TAKEN | TAKEN | 0 |  | short_invented | v6 |
 | Vendanence | vendanence.com | AVAILABLE | CLEAR | 0 | $11.08 | tech_general | v5 |
@@ -1708,7 +1708,7 @@ Total unique names: **1235**
 | Welvarith | welvarith.com |  | UNKNOWN |  |  | tech_general | v5 |
 | Welvarum | welvarum.com |  | UNKNOWN |  |  | tech_general | v5 |
 | Welvor | welvor.com |  | UNKNOWN |  |  | tech_general | v5 |
-| Wendraris | wendraris.com | AVAILABLE | CLEAR | 0 |  | latin_long | v6 |
+| Wendraris | wendraris.com | AVAILABLE | CLEAR | 0 | $11.08 | latin_long | v6 |
 | Wenivok | wenivok.com |  | UNKNOWN |  |  | tech_general | v4 |
 | Westgrove | westgrove.com | TAKEN | TAKEN | 1 |  | two_word | v6 |
 | Wolfclad | wolfclad.com |  | UNKNOWN |  |  | moggy_sigma | v2 |
@@ -1719,7 +1719,7 @@ Total unique names: **1235**
 | Wrovendel | wrovendel.com |  | UNKNOWN |  |  | tech_general | v5 |
 | Xenardel | xenardel.com |  | UNKNOWN |  |  | tech_general | v5 |
 | Xenarith | xenarith.com |  | UNKNOWN |  |  | tech_general | v4 |
-| Xervanth | xervanth.com | AVAILABLE | CLEAR | 0 |  | latin_long | v6 |
+| Xervanth | xervanth.com | AVAILABLE | CLEAR | 0 | $11.08 | latin_long | v6 |
 | Yandrik | yandrik.com |  | UNKNOWN |  |  | tech_general | v5 |
 | Yorvenix | yorvenix.com | TAKEN | TAKEN | 0 |  | latin_long | v6 |
 | Yrovendel | yrovendel.com |  | UNKNOWN |  |  | tech_general | v5 |

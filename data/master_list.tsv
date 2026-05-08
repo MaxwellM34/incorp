@@ -29,7 +29,7 @@ Beastedge	beastedge.com	moggy_sigma	v2									UNKNOWN
 Beastforge	beastforge.com	moggy_sigma	v2									UNKNOWN
 Beastsavage	beastsavage.com	moggy_sigma	v2									UNKNOWN
 Beastvault	beastvault.com	moggy_sigma	v2									UNKNOWN
-Belvanor	belvanor.com	latin_long	v6	AVAILABLE				0	0	0		CLEAR
+Belvanor	belvanor.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Boldfield	boldfield.com	tech_general	v5									UNKNOWN
 Boldgrove	boldgrove.com	two_word	v6	TAKEN				0	0	0		TAKEN
 Boldport	boldport.com	tech_general	v5									UNKNOWN
@@ -89,7 +89,7 @@ Caldex	caldex.com	short_invented	v5,v6	TAKEN				2	0	2	Caldex Corp. (Active)	TAKE
 Caldix	caldix.com	short_invented	v6	TAKEN				0	0	0		TAKEN
 Caldord	caldord.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Caldova	caldova.com	tech_general	v5									UNKNOWN
-Caldreth	caldreth.com	latin_long	v6	AVAILABLE				0	0	0		CLEAR
+Caldreth	caldreth.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Caldroma	caldroma.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Caldwell	caldwell.com	compound_modern	v1									UNKNOWN
 Caldwellan	caldwellan.com	pro_invented_long	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
@@ -130,7 +130,7 @@ Caltor	caltor.com	tech_general	v5									UNKNOWN
 Caltris	caltris.com	pro_invented_short	v1									UNKNOWN
 Calvant	calvant.com	compound_modern	v1									UNKNOWN
 Calvedos	calvedos.com	enterprise_invented	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Calvendris	calvendris.com	latin_long	v6	AVAILABLE				0	0	0		CLEAR
+Calvendris	calvendris.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Calver	calver.com	enterprise_invented	v2									UNKNOWN
 Calveria	calveria.com	pro_invented_long	v1									UNKNOWN
 Calverian	calverian.com	pro_invented_long	v1									UNKNOWN
@@ -190,7 +190,7 @@ Daravost	daravost.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Datrix	datrix.com	tech_mid	v3									UNKNOWN
 Domvora	domvora.com	tech_general	v5									UNKNOWN
 Dornalba	dornalba.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Dornavik	dornavik.com	latin_long	v6	AVAILABLE				0	0	0		CLEAR
+Dornavik	dornavik.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Dornova	dornova.com	tech_general	v4									UNKNOWN
 Drelmara	drelmara.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Dremara	dremara.com	tech_general	v4									UNKNOWN
@@ -202,7 +202,7 @@ Drovendel	drovendel.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Eastpath	eastpath.com	two_word	v6	TAKEN				0	0	0		TAKEN
 Edwarra	edwarra.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Elmpath	elmpath.com	two_word_pro	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Endorath	endorath.com	latin_long	v6	AVAILABLE				0	0	0		CLEAR
+Endorath	endorath.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Endorica	endorica.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Endrelith	endrelith.com	pro_invented_long	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Endurion	endurion.com	latin_long	v6	TAKEN				0	0	0		TAKEN
@@ -213,7 +213,7 @@ Eronvell	eronvell.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Ervaron	ervaron.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Felvaron	felvaron.com	tech_general	v5									UNKNOWN
 Felvelta	felvelta.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Fendaris	fendaris.com	latin_long	v6	AVAILABLE				0	0	0		CLEAR
+Fendaris	fendaris.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Fendro	fendro.com	short_invented	v6	TAKEN				0	0	0		TAKEN
 Ferenova	ferenova.com	tech_general	v5									UNKNOWN
 Fernivex	fernivex.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
@@ -232,7 +232,7 @@ Glex	glex.com	tech_short	v3									UNKNOWN
 Glexa	glexa.com	enterprise_invented	v2									UNKNOWN
 Glexandra	glexandra.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Glexar	glexar.com	tech_general	v4									UNKNOWN
-Gorvanth	gorvanth.com	latin_long	v6	AVAILABLE				0	0	0		CLEAR
+Gorvanth	gorvanth.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Granitebay	granitebay.com	two_word	v6	TAKEN				0	0	0		TAKEN
 Granitewright	granitewright.com	two_word_pro	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Gravaron	gravaron.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
@@ -257,7 +257,7 @@ Hrovendell	hrovendell.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Hyperia	hyperia.com	tech_latin_abstract	v3									UNKNOWN
 Hyperionforge	hyperionforge.com	greek_roman_chad	v2									UNKNOWN
 Hyperionworks	hyperionworks.com	greek_roman_chad	v2									UNKNOWN
-Indralor	indralor.com	latin_long	v6	AVAILABLE				0	0	0		CLEAR
+Indralor	indralor.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Indrar	indrar.com	tech_general	v5									UNKNOWN
 Indrelta	indrelta.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Ironbench	ironbench.com	two_word_pro	v1									UNKNOWN
@@ -272,7 +272,7 @@ Jorto	jorto.com	tech_general	v5									UNKNOWN
 Jorvant	jorvant.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Jorvenor	jorvenor.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Jovaron	jovaron.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Jovendar	jovendar.com	latin_long	v6	AVAILABLE				0	0	0		CLEAR
+Jovendar	jovendar.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Jovenrik	jovenrik.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Jrovendel	jrovendel.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Kalvor	kalvor.com	tech_general	v5									UNKNOWN
@@ -325,7 +325,7 @@ Karvostra	karvostra.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Karvtor	karvtor.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Karvwave	karvwave.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Kelven	kelven.com	modern_abstract	v1									UNKNOWN
-Korvelis	korvelis.com	latin_long	v6	AVAILABLE				0	0	0		CLEAR
+Korvelis	korvelis.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Korven	korven.com	modern_abstract	v1									UNKNOWN
 Kraviant	kraviant.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Krelantha	krelantha.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
@@ -345,7 +345,7 @@ Lavendrik	lavendrik.com	tech_general	v5									UNKNOWN
 Lavron	lavron.com	tech_general	v5									UNKNOWN
 Lendara	lendara.com	modern_startup	v6	TAKEN				0	0	0		TAKEN
 Lendix	lendix.com	short_invented	v6	TAKEN				1	0	1	Lendix Inc. (Active)	TAKEN
-Lendrith	lendrith.com	latin_long	v6	AVAILABLE				0	0	0		CLEAR
+Lendrith	lendrith.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Lentivex	lentivex.com	compound_modern	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Lentro	lentro.com	short_invented	v6	TAKEN				0	0	0		TAKEN
 Lenvora	lenvora.com	modern_startup	v6	TAKEN				0	0	0		TAKEN
@@ -578,7 +578,7 @@ Northstone	northstone.com	tech_general	v5									UNKNOWN
 Northwell	northwell.com	tech_general	v5									UNKNOWN
 Northwright	northwright.com	two_word_pro	v1									UNKNOWN
 Norvanence	norvanence.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Norvanis	norvanis.com	latin_long	v6	AVAILABLE				0	0	0		CLEAR
+Norvanis	norvanis.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Norvanova	norvanova.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Norvant	norvant.com	compound_modern	v1									UNKNOWN
 Norvanta	norvanta.com	enterprise_invented	v2									UNKNOWN
@@ -708,7 +708,7 @@ Orovendel	orovendel.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Orvarist	orvarist.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Orvelantha	orvelantha.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Orvelta	orvelta.com	tech_general	v4									UNKNOWN
-Ostralor	ostralor.com	latin_long	v6	AVAILABLE				0	0	0		CLEAR
+Ostralor	ostralor.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Patientwell	patientwell.com	two_word_pro	v1									UNKNOWN
 Pegasos	pegasos.com	tech_latin_abstract	v3									UNKNOWN
 Pelanta	pelanta.com	enterprise_invented	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
@@ -722,7 +722,7 @@ Pelvarist	pelvarist.com	tech_general	v4									UNKNOWN
 Pelvarith	pelvarith.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Pelvarum	pelvarum.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Pelvor	pelvor.com	tech_general	v5									UNKNOWN
-Pendarix	pendarix.com	latin_long	v6	AVAILABLE				0	0	0		CLEAR
+Pendarix	pendarix.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Pengrid	pengrid.com	tech_modern	v3									UNKNOWN
 Pinewright	pinewright.com	two_word_pro	v1,v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Plenadron	plenadron.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
@@ -790,7 +790,7 @@ PortCreditWorks	portcreditworks.com	geographic	v1	AVAILABLE	11.08	11.08	no	0	0	0
 Praetorforge	praetorforge.com	greek_roman_chad	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Praetorian	praetorian.com	greek_roman_chad	v2									UNKNOWN
 Praetorworks	praetorworks.com	greek_roman_chad	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Pravantis	pravantis.com	latin_long	v6	AVAILABLE				0	0	0		CLEAR
+Pravantis	pravantis.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Pravara	pravara.com	modern_startup	v6	TAKEN				0	0	0		TAKEN
 Praven	praven.com	modern_abstract	v1									UNKNOWN
 Pravex	pravex.com	enterprise_invented	v2									UNKNOWN
@@ -827,11 +827,11 @@ Quivora	quivora.com	tech_general	v5									UNKNOWN
 Quivox	quivox.com	modern_startup	v6	TAKEN				0	0	0		TAKEN
 Quorelis	quorelis.com	tech_general	v4									UNKNOWN
 Quorindra	quorindra.com	tech_general	v4									UNKNOWN
-Quorvanth	quorvanth.com	latin_long	v6	AVAILABLE				0	0	0		CLEAR
+Quorvanth	quorvanth.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Quvara	quvara.com	modern_startup	v6	TAKEN				0	0	0		TAKEN
 Quvora	quvora.com	short_invented	v6	TAKEN				0	0	0		TAKEN
 Renvardel	renvardel.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Renvarith	renvarith.com	latin_long	v4,v6	AVAILABLE				0	0	0		CLEAR
+Renvarith	renvarith.com	latin_long	v4,v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Renvor	renvor.com	tech_general	v5									UNKNOWN
 Renvora	renvora.com	tech_general	v5									UNKNOWN
 Resvanrik	resvanrik.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
@@ -879,7 +879,7 @@ Soldord	soldord.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Soldova	soldova.com	tech_general	v5									UNKNOWN
 Soldroma	soldroma.com	tech_general	v4									UNKNOWN
 Solendrik	solendrik.com	pro_invented_long	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Solendris	solendris.com	latin_long	v6	AVAILABLE				0	0	0		CLEAR
+Solendris	solendris.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Solendros	solendros.com	tech_general	v4									UNKNOWN
 Solenta	solenta.com	enterprise_invented	v2									UNKNOWN
 Solenza	solenza.com	enterprise_invented	v2									UNKNOWN
@@ -952,7 +952,7 @@ Steadwell	steadwell.com	tech_general	v5									UNKNOWN
 Steadwright	steadwright.com	two_word_pro	v1									UNKNOWN
 Steadyline	steadyline.com	two_word_pro	v1									UNKNOWN
 Steadyport	steadyport.com	two_word	v6	TAKEN				0	0	0		TAKEN
-Steelmere	steelmere.com	two_word	v6	AVAILABLE				0	0	0		CLEAR
+Steelmere	steelmere.com	two_word	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Stelandel	stelandel.com	enterprise_invented	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Stelandor	stelandor.com	tech_mid	v3									UNKNOWN
 Stelanence	stelanence.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
@@ -1005,7 +1005,7 @@ Stelriver	stelriver.com	tech_general	v4									UNKNOWN
 Stelsummit	stelsummit.com	tech_general	v4									UNKNOWN
 Steltor	steltor.com	tech_general	v5									UNKNOWN
 Stelvant	stelvant.com	compound_modern	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Stelvarin	stelvarin.com	latin_long	v6	AVAILABLE				0	0	0		CLEAR
+Stelvarin	stelvarin.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Stelvarra	stelvarra.com	pro_invented_long	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Stelvedos	stelvedos.com	enterprise_invented	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Stelven	stelven.com	pro_invented_short	v1									UNKNOWN
@@ -1107,7 +1107,7 @@ Velmark	velmark.com	pro_invented_short	v1									UNKNOWN
 Velnex	velnex.com	compound_modern	v1									UNKNOWN
 Velnix	velnix.com	pro_invented_short	v1									UNKNOWN
 Velorra	velorra.com	pro_invented_short	v1									UNKNOWN
-Velvarith	velvarith.com	latin_long	v6	AVAILABLE				0	0	0		CLEAR
+Velvarith	velvarith.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Velvix	velvix.com	short_invented	v6	TAKEN				0	0	0		TAKEN
 Velvor	velvor.com	short_invented	v6	TAKEN				0	0	0		TAKEN
 Vendanence	vendanence.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
@@ -1205,7 +1205,7 @@ Wellpath	wellpath.com	two_word_pro	v1									UNKNOWN
 Welvarith	welvarith.com	tech_general	v5									UNKNOWN
 Welvarum	welvarum.com	tech_general	v5									UNKNOWN
 Welvor	welvor.com	tech_general	v5									UNKNOWN
-Wendraris	wendraris.com	latin_long	v6	AVAILABLE				0	0	0		CLEAR
+Wendraris	wendraris.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Wenivok	wenivok.com	tech_general	v4									UNKNOWN
 Westgrove	westgrove.com	two_word	v6	TAKEN				1	0	1	Westgrove Design Ltd. (Active)	TAKEN
 Wolfclad	wolfclad.com	moggy_sigma	v2									UNKNOWN
@@ -1216,7 +1216,7 @@ Wolfthrust	wolfthrust.com	moggy_sigma	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Wrovendel	wrovendel.com	tech_general	v5									UNKNOWN
 Xenardel	xenardel.com	tech_general	v5									UNKNOWN
 Xenarith	xenarith.com	tech_general	v4									UNKNOWN
-Xervanth	xervanth.com	latin_long	v6	AVAILABLE				0	0	0		CLEAR
+Xervanth	xervanth.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Yandrik	yandrik.com	tech_general	v5									UNKNOWN
 Yorvenix	yorvenix.com	latin_long	v6	TAKEN				0	0	0		TAKEN
 Yrovendel	yrovendel.com	tech_general	v5									UNKNOWN
