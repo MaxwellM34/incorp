@@ -1,0 +1,71 @@
+/private/tmp/namecheck_venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+=== STEP 1: WHOIS filter on 192 names ===
+  57/192 cleared WHOIS in 0.6s
+    enterprise_invented: 28
+    greek_roman_chad: 7
+    moggy_sigma: 22
+
+=== STEP 2: live Porkbun + federal corp on 57 survivors ===
+  rate-limited to 1 Porkbun call / 10s, expected runtime 9.5 min
+[  1/57] Calandel               $11.08/yr prem=no                   fed=0  (elapsed 5s, eta 279s)
+[  2/57] Calvedos               $11.08/yr prem=no                   fed=0  (elapsed 15s, eta 420s)
+[  3/57] Karandel               $11.08/yr prem=no                   fed=0  (elapsed 27s, eta 481s)
+[  4/57] Karvedos               $11.08/yr prem=no                   fed=0  (elapsed 39s, eta 514s)
+[  5/57] Karveris               $11.08/yr prem=no                   fed=0  (elapsed 50s, eta 522s)
+[  6/57] Lumandel               $11.08/yr prem=no                   fed=0  (elapsed 62s, eta 531s)
+[  7/57] Maridicta              $11.08/yr prem=no                   fed=0  (elapsed 74s, eta 527s)
+[  8/57] Marvedos               $11.08/yr prem=no                   fed=0  (elapsed 89s, eta 544s)
+[  9/57] Norandel               $11.08/yr prem=no                   fed=0  (elapsed 98s, eta 521s)
+[ 10/57] Norvedos               $11.08/yr prem=no                   fed=0  (elapsed 111s, eta 520s)
+[ 11/57] Norveris               $11.08/yr prem=no                   fed=0  (elapsed 122s, eta 510s)
+[ 12/57] Olvandel               $11.08/yr prem=no                   fed=0  (elapsed 135s, eta 506s)
+[ 13/57] Olvarae                $11.08/yr prem=no                   fed=0  (elapsed 146s, eta 493s)
+[ 14/57] Olvedos                $11.08/yr prem=no                   fed=0  (elapsed 158s, eta 484s)
+[ 15/57] Olveric                $11.08/yr prem=no                   fed=0  (elapsed 169s, eta 474s)
+[ 16/57] Pelanta                $11.08/yr prem=no                   fed=0  (elapsed 181s, eta 464s)
+[ 17/57] Plenandel              $11.08/yr prem=no                   fed=0  (elapsed 193s, eta 454s)
+[ 18/57] Plenedos               $11.08/yr prem=no                   fed=0  (elapsed 205s, eta 444s)
+[ 19/57] Solandel               $11.08/yr prem=no                   fed=0  (elapsed 217s, eta 433s)
+[ 20/57] Solvedos               $11.08/yr prem=no                   fed=0  (elapsed 228s, eta 422s)
+[ 21/57] Stelandel              $11.08/yr prem=no                   fed=0  (elapsed 240s, eta 412s)
+[ 22/57] Stelanta               $11.08/yr prem=no                   fed=0  (elapsed 252s, eta 401s)
+[ 23/57] Stelvedos              $11.08/yr prem=no                   fed=0  (elapsed 264s, eta 390s)
+[ 24/57] Stelveric              $11.08/yr prem=no                   fed=0  (elapsed 276s, eta 379s)
+[ 25/57] Stelveris              $11.08/yr prem=no                   fed=0  (elapsed 294s, eta 377s)
+[ 26/57] Verandel               $11.08/yr prem=no                   fed=0  (elapsed 306s, eta 365s)
+[ 27/57] Verandil               $11.08/yr prem=no                   fed=0  (elapsed 319s, eta 354s)
+[ 28/57] Veranthos              $11.08/yr prem=no                   fed=0  (elapsed 334s, eta 346s)
+[ 29/57] Achillesforge          $11.08/yr prem=no                   fed=0  (elapsed 344s, eta 332s)
+[ 30/57] Atlasclad              $11.08/yr prem=no                   fed=0  (elapsed 355s, eta 320s)
+[ 31/57] Praetorforge           $11.08/yr prem=no                   fed=0  (elapsed 367s, eta 308s)
+[ 32/57] Praetorworks           $11.08/yr prem=no                   fed=0  (elapsed 379s, eta 296s)
+[ 33/57] Romulusforge           $11.08/yr prem=no                   fed=0  (elapsed 391s, eta 284s)
+[ 34/57] Romulusworks           $11.08/yr prem=no                   fed=0  (elapsed 403s, eta 273s)
+[ 35/57] Triton34               $11.08/yr prem=no                   fed=0  (elapsed 416s, eta 262s)
+[ 36/57] Beastclad              $11.08/yr prem=no                   fed=0  (elapsed 427s, eta 249s)
+[ 37/57] Brawlsigma             $11.08/yr prem=no                   fed=0  (elapsed 439s, eta 237s)
+[ 38/57] Brawlstride            $11.08/yr prem=no                   fed=0  (elapsed 451s, eta 225s)
+[ 39/57] Lionsavage             $11.08/yr prem=no                   fed=0  (elapsed 465s, eta 214s)
+[ 40/57] Maxxsavage             $11.08/yr prem=no                   fed=0  (elapsed 476s, eta 202s)
+[ 41/57] Maxxsigma              $11.08/yr prem=no                   fed=0  (elapsed 488s, eta 190s)
+[ 42/57] Maxxstride             $11.08/yr prem=no                   fed=0  (elapsed 500s, eta 178s)
+[ 43/57] Mogclad                $11.08/yr prem=no                   fed=0  (elapsed 511s, eta 167s)
+[ 44/57] Mogedge                $11.08/yr prem=no                   fed=0  (elapsed 523s, eta 155s)
+[ 45/57] Mogfortress            $11.08/yr prem=no                   fed=0  (elapsed 535s, eta 143s)
+[ 46/57] Mogiron                $11.08/yr prem=no                   fed=0  (elapsed 547s, eta 131s)
+[ 47/57] Mogsavage              $11.08/yr prem=no                   fed=0  (elapsed 559s, eta 119s)
+[ 48/57] Mogstark               $11.08/yr prem=no                   fed=0  (elapsed 571s, eta 107s)
+[ 49/57] Mogsteel               $11.08/yr prem=no                   fed=0  (elapsed 586s, eta 96s)
+[ 50/57] Mogstride              $11.08/yr prem=no                   fed=0  (elapsed 609s, eta 85s)
+[ 51/57] Mogthrust              $11.08/yr prem=no                   fed=0  (elapsed 628s, eta 74s)
+[ 52/57] Mogvault               $11.08/yr prem=no                   fed=0  (elapsed 636s, eta 61s)
+[ 53/57] Sigmaclash             $11.08/yr prem=no                   fed=0  (elapsed 645s, eta 49s)
+[ 54/57] Sigmastark             $11.08/yr prem=no                   fed=0  (elapsed 663s, eta 37s)
+[ 55/57] Tigerclad              $11.08/yr prem=no                   fed=0  (elapsed 669s, eta 24s)
+[ 56/57] Wolfsavage             $11.08/yr prem=no                   fed=0  (elapsed 683s, eta 12s)
+[ 57/57] Wolfthrust             $11.08/yr prem=no                   fed=0  (elapsed 692s, eta 0s)
+
+Done in 11.5 min total
+  TSV: /Users/janchinapoo/max/incorp/data/verified_v2.tsv
+  MD:  /Users/janchinapoo/max/incorp/data/verified_v2.md

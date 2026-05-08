@@ -1,0 +1,20 @@
+/private/tmp/namecheck_venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+=== STEP 1: WHOIS filter on 121 names ===
+  32/121 cleared WHOIS in 0.4s
+    tech_latin_abstract: 16
+    tech_mid: 4
+    tech_modern: 11
+    tech_short: 1
+
+=== STEP 2: live Porkbun + federal corp on 32 survivors ===
+  rate-limited to 1 Porkbun call / 10s, expected runtime 5.3 min
+[  1/32] Calraxis               $11.08/yr prem=no                   fed=0  (elapsed 1s, eta 30s)
+[  2/32] Calveritas             $11.08/yr prem=no                   fed=0  (elapsed 12s, eta 174s)
+[  3/32] Karraxis               $11.08/yr prem=no                   fed=0  (elapsed 22s, eta 213s)
+[  4/32] Karveritas             $11.08/yr prem=no                   fed=0  (elapsed 33s, eta 231s)
+[  5/32] Lumraxis               $11.08/yr prem=no                   fed=0  (elapsed 44s, eta 238s)
+[  6/32] Lumveritas             $11.08/yr prem=no                   fed=0  (elapsed 53s, eta 232s)
+[  7/32] Marraxis               $11.08/yr prem=no                   fed=0  (elapsed 64s, eta 229s)
+[  8/32] Marveritas             $11.08/yr prem=no                   fed=0  (elapsed 74s, eta 223s)
+[  9/32] Norraxis               $11.08/yr prem=no                   fed=0  (elapsed 85s, eta 217s)
