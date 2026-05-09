@@ -1,178 +1,178 @@
 name	domain	category	rounds	com_status	price	renewal	premium	fed_active	fed_dissolved	fed_total	fed_sample	verdict
 Achillesforge	achillesforge.com	greek_roman_chad	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Achillesworks	achillesworks.com	greek_roman_chad	v2									UNKNOWN
-Aegiscore	aegiscore.com	greek_roman_chad	v2									UNKNOWN
-Aegisforge	aegisforge.com	greek_roman_chad	v2									UNKNOWN
-Aegisworks	aegisworks.com	greek_roman_chad	v2									UNKNOWN
-Apexbeast	apexbeast.com	moggy_sigma	v2									UNKNOWN
-Apexgrid	apexgrid.com	moggy_sigma	v2									UNKNOWN
-Apexridge	apexridge.com	moggy_sigma	v2									UNKNOWN
-Apexsavage	apexsavage.com	moggy_sigma	v2									UNKNOWN
-Apexstride	apexstride.com	moggy_sigma	v2									UNKNOWN
-Apexvault	apexvault.com	moggy_sigma	v2									UNKNOWN
-Apolloforge	apolloforge.com	greek_roman_chad	v2									UNKNOWN
-Apollovault	apollovault.com	greek_roman_chad	v2									UNKNOWN
-Apolloworks	apolloworks.com	greek_roman_chad	v2									UNKNOWN
+Achillesworks	achillesworks.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
+Aegiscore	aegiscore.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
+Aegisforge	aegisforge.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
+Aegisworks	aegisworks.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
+Apexbeast	apexbeast.com	moggy_sigma	v2	TAKEN				0	0	0		TAKEN
+Apexgrid	apexgrid.com	moggy_sigma	v2	TAKEN				1	0	1	ApexGrid Inc. (Active)	TAKEN
+Apexridge	apexridge.com	moggy_sigma	v2	TAKEN				0	0	0		TAKEN
+Apexsavage	apexsavage.com	moggy_sigma	v2	TAKEN				0	0	0		TAKEN
+Apexstride	apexstride.com	moggy_sigma	v2	TAKEN				0	0	0		TAKEN
+Apexvault	apexvault.com	moggy_sigma	v2	TAKEN				0	0	0		TAKEN
+Apolloforge	apolloforge.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
+Apollovault	apollovault.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
+Apolloworks	apolloworks.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
 Aremvor	aremvor.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Argenta	argenta.com	enterprise_invented	v2									UNKNOWN
+Argenta	argenta.com	enterprise_invented	v2	TAKEN				4	2	6	ARGENTA CALL CENTERS INC. CENTRE D'APPEL (Dissolved for non-co)	TAKEN
 Atlasclad	atlasclad.com	greek_roman_chad	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Atlasforge	atlasforge.com	greek_roman_chad	v2									UNKNOWN
-Atlasridge	atlasridge.com	greek_roman_chad	v2									UNKNOWN
-Atlasvault	atlasvault.com	greek_roman_chad	v2									UNKNOWN
-Atlasworks	atlasworks.com	greek_roman_chad	v2									UNKNOWN
-Aurelin	aurelin.com	enterprise_invented	v2									UNKNOWN
+Atlasforge	atlasforge.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
+Atlasridge	atlasridge.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
+Atlasvault	atlasvault.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
+Atlasworks	atlasworks.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
+Aurelin	aurelin.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
 Avenarith	avenarith.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Avendris	avendris.com	latin_long	v6	TAKEN				0	0	0		TAKEN
 Avronell	avronell.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Beastclad	beastclad.com	moggy_sigma	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Beastedge	beastedge.com	moggy_sigma	v2									UNKNOWN
-Beastforge	beastforge.com	moggy_sigma	v2									UNKNOWN
-Beastsavage	beastsavage.com	moggy_sigma	v2									UNKNOWN
-Beastvault	beastvault.com	moggy_sigma	v2									UNKNOWN
+Beastedge	beastedge.com	moggy_sigma	v2	TAKEN				0	0	0		TAKEN
+Beastforge	beastforge.com	moggy_sigma	v2	TAKEN				0	0	0		TAKEN
+Beastsavage	beastsavage.com	moggy_sigma	v2	TAKEN				0	0	0		TAKEN
+Beastvault	beastvault.com	moggy_sigma	v2	TAKEN				0	0	0		TAKEN
 Belvanor	belvanor.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Boldfield	boldfield.com	tech_general	v5									UNKNOWN
+Boldfield	boldfield.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Boldgrove	boldgrove.com	two_word	v6	TAKEN				0	0	0		TAKEN
-Boldport	boldport.com	tech_general	v5									UNKNOWN
-Boldridge	boldridge.com	tech_general	v5									UNKNOWN
-Boldstone	boldstone.com	tech_general	v5									UNKNOWN
-Boldwell	boldwell.com	tech_general	v5									UNKNOWN
-Branchwell	branchwell.com	two_word_pro	v1									UNKNOWN
+Boldport	boldport.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Boldridge	boldridge.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Boldstone	boldstone.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Boldwell	boldwell.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Branchwell	branchwell.com	two_word_pro	v1	TAKEN				0	0	0		TAKEN
 Brassmere	brassmere.com	two_word	v6	TAKEN				0	0	0		TAKEN
 Brawlsigma	brawlsigma.com	moggy_sigma	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Brawlstride	brawlstride.com	moggy_sigma	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Brawlvault	brawlvault.com	moggy_sigma	v2									UNKNOWN
+Brawlvault	brawlvault.com	moggy_sigma	v2	TAKEN				0	0	0		TAKEN
 Braxenor	braxenor.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Braxonova	braxonova.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Brendanos	brendanos.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Brendar	brendar.com	tech_general	v4									UNKNOWN
+Brendar	brendar.com	tech_general	v4	TAKEN				0	0	0		TAKEN
 Brendo	brendo.com	short_invented	v6	TAKEN				0	0	0		TAKEN
-Brento	brento.com	tech_general	v5									UNKNOWN
+Brento	brento.com	tech_general	v5	TAKEN				1	1	2	Brento Flooring Canada Inc. (Dissolved for non-co)	TAKEN
 Brevelta	brevelta.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Brevidor	brevidor.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Brevidos	brevidos.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Brevix	brevix.com	short_invented	v6	TAKEN				0	0	0		TAKEN
-Brexa	brexa.com	tech_short	v3									UNKNOWN
-Brexora	brexora.com	tech_short	v3									UNKNOWN
+Brexa	brexa.com	tech_short	v3	TAKEN				0	0	0		TAKEN
+Brexora	brexora.com	tech_short	v3	TAKEN				0	0	0		TAKEN
 Bridvor	bridvor.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Brightforge	brightforge.com	two_word	v6	TAKEN				0	0	0		TAKEN
-Brightwell	brightwell.com	two_word_pro	v1									UNKNOWN
+Brightwell	brightwell.com	two_word_pro	v1	TAKEN				0	1	1	BRIGHTWELL TECHNOLOGIES INC. (Inactive - Discontin)	TAKEN
 Brivex	brivex.com	short_invented	v6	TAKEN				0	0	0		TAKEN
 Brovenell	brovenell.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Broxa	broxa.com	enterprise_invented	v2									UNKNOWN
-Brux	brux.com	tech_short	v3									UNKNOWN
+Broxa	broxa.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
+Brux	brux.com	tech_short	v3	TAKEN				1	0	1	Brux Holdings Ltd. (Active)	TAKEN
 Calandel	calandel.com	enterprise_invented	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Calandor	calandor.com	tech_mid	v3									UNKNOWN
+Calandor	calandor.com	tech_mid	v3	TAKEN				0	0	0		TAKEN
 Calanence	calanence.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Calant	calant.com	tech_modern	v3									UNKNOWN
-Calanta	calanta.com	enterprise_invented	v2									UNKNOWN
-Calantha	calantha.com	tech_general	v5									UNKNOWN
+Calant	calant.com	tech_modern	v3	TAKEN				0	0	0		TAKEN
+Calanta	calanta.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
+Calantha	calantha.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Calantrix	calantrix.com	pro_invented_long	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Calare	calare.com	tech_modern	v3									UNKNOWN
-Calaris	calaris.com	tech_general	v5									UNKNOWN
+Calare	calare.com	tech_modern	v3	TAKEN				0	0	0		TAKEN
+Calaris	calaris.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Calaros	calaros.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Calatial	calatial.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Calatic	calatic.com	tech_general	v4									UNKNOWN
+Calatic	calatic.com	tech_general	v4	TAKEN				0	0	0		TAKEN
 Calatide	calatide.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Calatier	calatier.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Calavos	calavos.com	tech_general	v4									UNKNOWN
-Calbase	calbase.com	tech_general	v4									UNKNOWN
+Calavos	calavos.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Calbase	calbase.com	tech_general	v4	TAKEN				0	0	0		TAKEN
 Calbaxis	calbaxis.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Calbonia	calbonia.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Calbria	calbria.com	tech_short	v3									UNKNOWN
-Calcore	calcore.com	tech_general	v4									UNKNOWN
-Caldanti	caldanti.com	tech_modern	v3									UNKNOWN
+Calbria	calbria.com	tech_short	v3	TAKEN				0	0	0		TAKEN
+Calcore	calcore.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Caldanti	caldanti.com	tech_modern	v3	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Caldara	caldara.com	modern_startup	v6	TAKEN				0	0	0		TAKEN
-Caldek	caldek.com	tech_general	v5									UNKNOWN
-Caldenor	caldenor.com	pro_invented_short	v1									UNKNOWN
-Calderon	calderon.com	tech_general	v5									UNKNOWN
+Caldek	caldek.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Caldenor	caldenor.com	pro_invented_short	v1	TAKEN				0	0	0		TAKEN
+Calderon	calderon.com	tech_general	v5	TAKEN				1	1	2	INGRID CALDERON ENTERPRISES INC. (Dissolved by the cor)	TAKEN
 Caldex	caldex.com	short_invented	v5,v6	TAKEN				2	0	2	Caldex Corp. (Active)	TAKEN
 Caldix	caldix.com	short_invented	v6	TAKEN				0	0	0		TAKEN
 Caldord	caldord.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Caldova	caldova.com	tech_general	v5									UNKNOWN
+Caldova	caldova.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Caldreth	caldreth.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Caldroma	caldroma.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Caldwell	caldwell.com	compound_modern	v1									UNKNOWN
+Caldwell	caldwell.com	compound_modern	v1	TAKEN				8	12	20	LA FONDATION CALDWELL CALDWELL FOUNDATIO (Active)	TAKEN
 Caldwellan	caldwellan.com	pro_invented_long	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Caldwin	caldwin.com	pro_invented_short	v1									UNKNOWN
-Calenova	calenova.com	tech_general	v4									UNKNOWN
-Calenta	calenta.com	enterprise_invented	v2									UNKNOWN
-Calenza	calenza.com	pro_invented_short	v1									UNKNOWN
-Caleska	caleska.com	tech_general	v5									UNKNOWN
-Calexa	calexa.com	enterprise_invented	v2									UNKNOWN
-Calgrid	calgrid.com	tech_general	v4									UNKNOWN
-Calidex	calidex.com	tech_mid	v3									UNKNOWN
-Calidor	calidor.com	tech_mid	v3									UNKNOWN
-Calinova	calinova.com	tech_general	v4									UNKNOWN
+Caldwin	caldwin.com	pro_invented_short	v1	TAKEN				0	0	0		TAKEN
+Calenova	calenova.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Calenta	calenta.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
+Calenza	calenza.com	pro_invented_short	v1	TAKEN				0	0	0		TAKEN
+Caleska	caleska.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Calexa	calexa.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
+Calgrid	calgrid.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Calidex	calidex.com	tech_mid	v3	TAKEN				0	0	0		TAKEN
+Calidor	calidor.com	tech_mid	v3	TAKEN				0	0	0		TAKEN
+Calinova	calinova.com	tech_general	v4	TAKEN				0	0	0		TAKEN
 Calivity	calivity.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Callight	callight.com	tech_general	v4									UNKNOWN
-Callum	callum.com	tech_mid	v3									UNKNOWN
+Callight	callight.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Callum	callum.com	tech_mid	v3	TAKEN				1	0	1	LAST CALLUM CORP. (Active)	TAKEN
 Calmaron	calmaron.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Calmex	calmex.com	short_invented	v5,v6	TAKEN				0	1	1	Calmex Framing Limited (Dissolved by the cor)	TAKEN
-Calodex	calodex.com	tech_general	v4									UNKNOWN
-Calometric	calometric.com	tech_general	v4									UNKNOWN
-Calonex	calonex.com	tech_general	v4									UNKNOWN
+Calodex	calodex.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Calometric	calometric.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Calonex	calonex.com	tech_general	v4	TAKEN				0	0	0		TAKEN
 Calorant	calorant.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Caloria	caloria.com	tech_general	v5									UNKNOWN
+Caloria	caloria.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Calostra	calostra.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Calovaris	calovaris.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Calovera	calovera.com	tech_general	v4									UNKNOWN
-Calpath	calpath.com	tech_general	v5									UNKNOWN
-Calpeak	calpeak.com	tech_general	v4									UNKNOWN
-Calplex	calplex.com	compound_modern	v1									UNKNOWN
-Calprime	calprime.com	tech_general	v4									UNKNOWN
-Calraxis	calraxis.com	tech_latin_abstract	v3									UNKNOWN
-Calridge	calridge.com	tech_general	v5									UNKNOWN
-Calriver	calriver.com	tech_general	v4									UNKNOWN
-Calsummit	calsummit.com	tech_general	v4									UNKNOWN
-Caltheon	caltheon.com	enterprise_invented	v2									UNKNOWN
+Calovera	calovera.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Calpath	calpath.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Calpeak	calpeak.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Calplex	calplex.com	compound_modern	v1	TAKEN				0	0	0		TAKEN
+Calprime	calprime.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Calraxis	calraxis.com	tech_latin_abstract	v3	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Calridge	calridge.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Calriver	calriver.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Calsummit	calsummit.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Caltheon	caltheon.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
 Caltheria	caltheria.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Caltor	caltor.com	tech_general	v5									UNKNOWN
-Caltris	caltris.com	pro_invented_short	v1									UNKNOWN
-Calvant	calvant.com	compound_modern	v1									UNKNOWN
+Caltor	caltor.com	tech_general	v5	TAKEN				0	2	2	CALTOR PETROLEUMS LTD. (Dissolved for non-co)	TAKEN
+Caltris	caltris.com	pro_invented_short	v1	TAKEN				0	0	0		TAKEN
+Calvant	calvant.com	compound_modern	v1	TAKEN				0	0	0		TAKEN
 Calvedos	calvedos.com	enterprise_invented	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Calvendris	calvendris.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Calver	calver.com	enterprise_invented	v2									UNKNOWN
-Calveria	calveria.com	pro_invented_long	v1									UNKNOWN
-Calverian	calverian.com	pro_invented_long	v1									UNKNOWN
+Calver	calver.com	enterprise_invented	v2	TAKEN				0	1	1	CALVER BIOLOGICS CONSULTING INC. (Dissolved by the cor)	TAKEN
+Calveria	calveria.com	pro_invented_long	v1	TAKEN				0	0	0		TAKEN
+Calverian	calverian.com	pro_invented_long	v1	TAKEN				0	0	0		TAKEN
 Calveriant	calveriant.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Calveric	calveric.com	enterprise_invented	v2									UNKNOWN
-Calveris	calveris.com	enterprise_invented	v2									UNKNOWN
-Calveritas	calveritas.com	tech_latin_abstract	v3									UNKNOWN
-Calverith	calverith.com	tech_general	v4									UNKNOWN
-Calveth	calveth.com	pro_invented_short	v1									UNKNOWN
-Calvex	calvex.com	compound_modern	v1									UNKNOWN
-Calvik	calvik.com	tech_general	v5									UNKNOWN
-Calvora	calvora.com	enterprise_invented	v2									UNKNOWN
-Calvox	calvox.com	tech_short	v3									UNKNOWN
-Calwave	calwave.com	tech_general	v4									UNKNOWN
+Calveric	calveric.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
+Calveris	calveris.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
+Calveritas	calveritas.com	tech_latin_abstract	v3	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Calverith	calverith.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Calveth	calveth.com	pro_invented_short	v1	TAKEN				0	0	0		TAKEN
+Calvex	calvex.com	compound_modern	v1	TAKEN				0	1	1	Calvex Capital Corporation (Dissolved by the cor)	TAKEN
+Calvik	calvik.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Calvora	calvora.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
+Calvox	calvox.com	tech_short	v3	TAKEN				0	0	0		TAKEN
+Calwave	calwave.com	tech_general	v4	TAKEN				0	1	1	CALWAVE INC. (Inactive - Amalgamat)	TAKEN
 Calwex	calwex.com	short_invented	v6	TAKEN				0	0	0		TAKEN
-Calwright	calwright.com	tech_general	v5									UNKNOWN
-Caradel	caradel.com	tech_mid	v3									UNKNOWN
+Calwright	calwright.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Caradel	caradel.com	tech_mid	v3	TAKEN				0	0	0		TAKEN
 Carendrik	carendrik.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Cedarforge	cedarforge.com	two_word	v6	TAKEN				0	0	0		TAKEN
-Cedarline	cedarline.com	two_word_pro	v1									UNKNOWN
-Cedarpath	cedarpath.com	two_word_pro	v1									UNKNOWN
-Cendor	cendor.com	enterprise_invented	v2									UNKNOWN
+Cedarline	cedarline.com	two_word_pro	v1	TAKEN				2	0	2	Cedarline Ventures Ltd. (Active)	TAKEN
+Cedarpath	cedarpath.com	two_word_pro	v1	TAKEN				0	0	0		TAKEN
+Cendor	cendor.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
 Cendora	cendora.com	modern_startup	v6	TAKEN				0	0	0		TAKEN
-Cendore	cendore.com	tech_mid	v3									UNKNOWN
-Cendoria	cendoria.com	tech_general	v4									UNKNOWN
-Centurioncore	centurioncore.com	greek_roman_chad	v2									UNKNOWN
-Centurionforge	centurionforge.com	greek_roman_chad	v2									UNKNOWN
-Centurionworks	centurionworks.com	greek_roman_chad	v2									UNKNOWN
+Cendore	cendore.com	tech_mid	v3	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Cendoria	cendoria.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Centurioncore	centurioncore.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
+Centurionforge	centurionforge.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
+Centurionworks	centurionworks.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
 ClarksonForge	clarksonforge.com	geographic	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-ClarksonLabs	clarksonlabs.com	geographic	v1									UNKNOWN
-Cleargate	cleargate.com	two_word_pro	v1									UNKNOWN
+ClarksonLabs	clarksonlabs.com	geographic	v1	TAKEN				0	0	0		TAKEN
+Cleargate	cleargate.com	two_word_pro	v1	TAKEN				0	0	0		TAKEN
 Cleargrove	cleargrove.com	two_word	v6	TAKEN				0	0	0		TAKEN
 Cleartide	cleartide.com	two_word	v6	TAKEN				0	0	0		TAKEN
 Clearwright	clearwright.com	two_word_pro	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Cobalta	cobalta.com	enterprise_invented	v2									UNKNOWN
-Cogitan	cogitan.com	enterprise_invented	v2									UNKNOWN
-Cogitos	cogitos.com	tech_latin_abstract	v3									UNKNOWN
+Cobalta	cobalta.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
+Cogitan	cogitan.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
+Cogitos	cogitos.com	tech_latin_abstract	v3	TAKEN				0	0	0		TAKEN
 CooksvilleLabs	cooksvillelabs.com	geographic	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 CooksvilleWorks	cooksvilleworks.com	geographic	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Coppergrove	coppergrove.com	two_word	v6	TAKEN				0	0	0		TAKEN
-Coraxis	coraxis.com	tech_latin_abstract	v3									UNKNOWN
-Cordial	cordial.com	enterprise_invented	v2									UNKNOWN
+Coraxis	coraxis.com	tech_latin_abstract	v3	TAKEN				0	0	0		TAKEN
+Cordial	cordial.com	enterprise_invented	v2	TAKEN				1	0	1	Cordial-IT INC. (Active)	TAKEN
 CreditRiverDigital	creditriverdigital.com	geographic	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 CreditRiverLabs	creditriverlabs.com	geographic	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 CreditRiverWorks	creditriverworks.com	geographic	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
@@ -181,19 +181,19 @@ CreditValleyDigital	creditvalleydigital.com	geographic	v1	AVAILABLE	11.08	11.08	
 CreditValleyGroup	creditvalleygroup.com	geographic	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 CreditValleyLabs	creditvalleylabs.com	geographic	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 CreditValleyWorks	creditvalleyworks.com	geographic	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Crelvant	crelvant.com	tech_general	v4									UNKNOWN
+Crelvant	crelvant.com	tech_general	v4	TAKEN				0	0	0		TAKEN
 Crelvanth	crelvanth.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Crelvarith	crelvarith.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Crento	crento.com	tech_general	v5									UNKNOWN
+Crento	crento.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Crovedell	crovedell.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Daravost	daravost.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Datrix	datrix.com	tech_mid	v3									UNKNOWN
-Domvora	domvora.com	tech_general	v5									UNKNOWN
+Datrix	datrix.com	tech_mid	v3	TAKEN				0	0	0		TAKEN
+Domvora	domvora.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Dornalba	dornalba.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Dornavik	dornavik.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Dornova	dornova.com	tech_general	v4									UNKNOWN
+Dornova	dornova.com	tech_general	v4	TAKEN				0	0	0		TAKEN
 Drelmara	drelmara.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Dremara	dremara.com	tech_general	v4									UNKNOWN
+Dremara	dremara.com	tech_general	v4	TAKEN				0	0	0		TAKEN
 Dremto	dremto.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Drevandel	drevandel.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Drevarist	drevarist.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
@@ -206,87 +206,87 @@ Endorath	endorath.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Endorica	endorica.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Endrelith	endrelith.com	pro_invented_long	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Endurion	endurion.com	latin_long	v6	TAKEN				0	0	0		TAKEN
-Endwell	endwell.com	pro_invented_short	v1									UNKNOWN
+Endwell	endwell.com	pro_invented_short	v1	TAKEN				0	0	0		TAKEN
 Erelta	erelta.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Eronvel	eronvel.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Eronvell	eronvell.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Ervaron	ervaron.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Felvaron	felvaron.com	tech_general	v5									UNKNOWN
+Felvaron	felvaron.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Felvelta	felvelta.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Fendaris	fendaris.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Fendro	fendro.com	short_invented	v6	TAKEN				0	0	0		TAKEN
-Ferenova	ferenova.com	tech_general	v5									UNKNOWN
+Ferenova	ferenova.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Fernivex	fernivex.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Fernoria	fernoria.com	tech_general	v4									UNKNOWN
-Ferto	ferto.com	tech_general	v5									UNKNOWN
-Florant	florant.com	tech_general	v4									UNKNOWN
+Fernoria	fernoria.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Ferto	ferto.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Florant	florant.com	tech_general	v4	TAKEN				0	1	1	SYLVAIN FLORANT INSTALLATIONS INC. (Dissolved for non-co)	TAKEN
 Forenvar	forenvar.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Frenta	frenta.com	enterprise_invented	v2									UNKNOWN
+Frenta	frenta.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
 Frovendel	frovendel.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Garondra	garondra.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Gavandrik	gavandrik.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Gelvelta	gelvelta.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Gerto	gerto.com	tech_general	v5									UNKNOWN
-Glasten	glasten.com	enterprise_invented	v2									UNKNOWN
-Glex	glex.com	tech_short	v3									UNKNOWN
-Glexa	glexa.com	enterprise_invented	v2									UNKNOWN
+Gerto	gerto.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Glasten	glasten.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
+Glex	glex.com	tech_short	v3	TAKEN				0	0	0		TAKEN
+Glexa	glexa.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
 Glexandra	glexandra.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Glexar	glexar.com	tech_general	v4									UNKNOWN
+Glexar	glexar.com	tech_general	v4	TAKEN				0	0	0		TAKEN
 Gorvanth	gorvanth.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Granitebay	granitebay.com	two_word	v6	TAKEN				0	0	0		TAKEN
 Granitewright	granitewright.com	two_word_pro	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Gravaron	gravaron.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Grendalor	grendalor.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Grovendel	grovendel.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Heliosforge	heliosforge.com	greek_roman_chad	v2									UNKNOWN
-Heliosworks	heliosworks.com	greek_roman_chad	v2									UNKNOWN
-Helixar	helixar.com	tech_latin_abstract	v3									UNKNOWN
-Helixor	helixor.com	tech_mid	v3									UNKNOWN
+Heliosforge	heliosforge.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
+Heliosworks	heliosworks.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
+Helixar	helixar.com	tech_latin_abstract	v3	TAKEN				0	0	0		TAKEN
+Helixor	helixor.com	tech_mid	v3	TAKEN				0	0	0		TAKEN
 Helvanora	helvanora.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Helvarin	helvarin.com	latin_long	v6	TAKEN				0	0	0		TAKEN
 Helvelta	helvelta.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Hento	hento.com	tech_general	v5									UNKNOWN
-Heraclesforge	heraclesforge.com	greek_roman_chad	v2									UNKNOWN
+Hento	hento.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Heraclesforge	heraclesforge.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
 Holdfield	holdfield.com	two_word_pro	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Holdwell	holdwell.com	two_word_pro	v1									UNKNOWN
+Holdwell	holdwell.com	two_word_pro	v1	TAKEN				0	0	0		TAKEN
 Holdwright	holdwright.com	two_word_pro	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Holvant	holvant.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Holvarith	holvarith.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Holvor	holvor.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Hrovendell	hrovendell.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Hyperia	hyperia.com	tech_latin_abstract	v3									UNKNOWN
-Hyperionforge	hyperionforge.com	greek_roman_chad	v2									UNKNOWN
-Hyperionworks	hyperionworks.com	greek_roman_chad	v2									UNKNOWN
+Hyperia	hyperia.com	tech_latin_abstract	v3	TAKEN				1	0	1	HYPERIA CAPITAL INC. (Active)	TAKEN
+Hyperionforge	hyperionforge.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
+Hyperionworks	hyperionworks.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
 Indralor	indralor.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Indrar	indrar.com	tech_general	v5									UNKNOWN
+Indrar	indrar.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Indrelta	indrelta.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Ironbench	ironbench.com	two_word_pro	v1									UNKNOWN
+Ironbench	ironbench.com	two_word_pro	v1	TAKEN				0	0	0		TAKEN
 Ironbrook	ironbrook.com	two_word	v6	TAKEN				0	1	1	IRONBROOK INC. (Dissolved for non-co)	TAKEN
 Irovendel	irovendel.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Ivelta	ivelta.com	tech_general	v5									UNKNOWN
+Ivelta	ivelta.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Iverando	iverando.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Ivermel	ivermel.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Iverto	iverto.com	tech_general	v5									UNKNOWN
+Iverto	iverto.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Jelvelta	jelvelta.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Jorto	jorto.com	tech_general	v5									UNKNOWN
+Jorto	jorto.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Jorvant	jorvant.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Jorvenor	jorvenor.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Jovaron	jovaron.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Jovendar	jovendar.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Jovenrik	jovenrik.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Jrovendel	jrovendel.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Kalvor	kalvor.com	tech_general	v5									UNKNOWN
-Kalvora	kalvora.com	tech_short	v3									UNKNOWN
+Kalvor	kalvor.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Kalvora	kalvora.com	tech_short	v3	TAKEN				0	0	0		TAKEN
 Kalvto	kalvto.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Karandel	karandel.com	enterprise_invented	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Karavant	karavant.com	compound_modern	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Karelvaris	karelvaris.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Karenvor	karenvor.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Karpath	karpath.com	modern_abstract	v1									UNKNOWN
-Karplex	karplex.com	compound_modern	v1									UNKNOWN
-Karraxis	karraxis.com	tech_latin_abstract	v3									UNKNOWN
+Karpath	karpath.com	modern_abstract	v1	TAKEN				0	0	0		TAKEN
+Karplex	karplex.com	compound_modern	v1	TAKEN				0	0	0		TAKEN
+Karraxis	karraxis.com	tech_latin_abstract	v3	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Karvanence	karvanence.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Karvanta	karvanta.com	enterprise_invented	v2									UNKNOWN
+Karvanta	karvanta.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
 Karvantheria	karvantheria.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Karvarica	karvarica.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Karvaris	karvaris.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
@@ -304,15 +304,15 @@ Karvdova	karvdova.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Karvdroma	karvdroma.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Karvedos	karvedos.com	enterprise_invented	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Karvelron	karvelron.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Karven	karven.com	pro_invented_short	v1									UNKNOWN
+Karven	karven.com	pro_invented_short	v1	TAKEN				1	0	1	KARVEN Tech Solutions Inc. (Active)	TAKEN
 Karvendel	karvendel.com	pro_invented_long	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Karveriant	karveriant.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Karveris	karveris.com	enterprise_invented	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Karveritas	karveritas.com	tech_latin_abstract	v3									UNKNOWN
+Karveritas	karveritas.com	tech_latin_abstract	v3	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Karverith	karverith.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Karveska	karveska.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Karvex	karvex.com	tech_general	v5									UNKNOWN
-Karvik	karvik.com	tech_general	v5									UNKNOWN
+Karvex	karvex.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Karvik	karvik.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Karvitheon	karvitheon.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Karvivity	karvivity.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Karvmex	karvmex.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
@@ -324,25 +324,25 @@ Karvoria	karvoria.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Karvostra	karvostra.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Karvtor	karvtor.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Karvwave	karvwave.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Kelven	kelven.com	modern_abstract	v1									UNKNOWN
+Kelven	kelven.com	modern_abstract	v1	TAKEN				0	0	0		TAKEN
 Korvelis	korvelis.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Korven	korven.com	modern_abstract	v1									UNKNOWN
+Korven	korven.com	modern_abstract	v1	TAKEN				1	0	1	Korven Dynamics Inc. (Active)	TAKEN
 Kraviant	kraviant.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Krelantha	krelantha.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Krenant	krenant.com	tech_modern	v3									UNKNOWN
-Krenare	krenare.com	tech_modern	v3									UNKNOWN
-Krendanti	krendanti.com	tech_modern	v3									UNKNOWN
+Krenant	krenant.com	tech_modern	v3	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Krenare	krenare.com	tech_modern	v3	TAKEN				0	0	0		TAKEN
+Krendanti	krendanti.com	tech_modern	v3	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Krendar	krendar.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Krenora	krenora.com	tech_short	v3									UNKNOWN
-Krenta	krenta.com	enterprise_invented	v2									UNKNOWN
+Krenora	krenora.com	tech_short	v3	TAKEN				0	0	0		TAKEN
+Krenta	krenta.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
 Krentelis	krentelis.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Krevelta	krevelta.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Krovendel	krovendel.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 LakeshoreCraft	lakeshorecraft.com	geographic	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-LakeshoreLabs	lakeshorelabs.com	geographic	v1									UNKNOWN
-LakeshoreWorks	lakeshoreworks.com	geographic	v1									UNKNOWN
-Lavendrik	lavendrik.com	tech_general	v5									UNKNOWN
-Lavron	lavron.com	tech_general	v5									UNKNOWN
+LakeshoreLabs	lakeshorelabs.com	geographic	v1	TAKEN				0	0	0		TAKEN
+LakeshoreWorks	lakeshoreworks.com	geographic	v1	TAKEN				0	0	0		TAKEN
+Lavendrik	lavendrik.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Lavron	lavron.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Lendara	lendara.com	modern_startup	v6	TAKEN				0	0	0		TAKEN
 Lendix	lendix.com	short_invented	v6	TAKEN				1	0	1	Lendix Inc. (Active)	TAKEN
 Lendrith	lendrith.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
@@ -351,28 +351,28 @@ Lentro	lentro.com	short_invented	v6	TAKEN				0	0	0		TAKEN
 Lenvora	lenvora.com	modern_startup	v6	TAKEN				0	0	0		TAKEN
 Lerovant	lerovant.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Lervadom	lervadom.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Linenfield	linenfield.com	two_word_pro	v1									UNKNOWN
-Lionclad	lionclad.com	moggy_sigma	v2									UNKNOWN
-Lionforge	lionforge.com	moggy_sigma	v2									UNKNOWN
+Linenfield	linenfield.com	two_word_pro	v1	TAKEN				0	0	0		TAKEN
+Lionclad	lionclad.com	moggy_sigma	v2	TAKEN				0	0	0		TAKEN
+Lionforge	lionforge.com	moggy_sigma	v2	TAKEN				1	0	1	LIONFORGE INDUSTRIES INC. (Active)	TAKEN
 Lionsavage	lionsavage.com	moggy_sigma	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Lionvault	lionvault.com	moggy_sigma	v2									UNKNOWN
+Lionvault	lionvault.com	moggy_sigma	v2	TAKEN				0	0	0		TAKEN
 LorneParkLabs	lorneparklabs.com	geographic	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 LorneParkWorks	lorneparkworks.com	geographic	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Lrovendel	lrovendel.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Lumadron	lumadron.com	tech_general	v5									UNKNOWN
+Lumadron	lumadron.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Lumandel	lumandel.com	enterprise_invented	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Lumanence	lumanence.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Lumanta	lumanta.com	enterprise_invented	v2									UNKNOWN
+Lumanta	lumanta.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
 Lumantheria	lumantheria.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Lumarica	lumarica.com	tech_general	v4									UNKNOWN
-Lumaris	lumaris.com	tech_general	v5									UNKNOWN
+Lumarica	lumarica.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Lumaris	lumaris.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Lumarista	lumarista.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Lumaros	lumaros.com	tech_general	v4									UNKNOWN
+Lumaros	lumaros.com	tech_general	v4	TAKEN				0	0	0		TAKEN
 Lumarric	lumarric.com	pro_invented_short	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Lumarrick	lumarrick.com	pro_invented_long	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Lumatial	lumatial.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Lumatic	lumatic.com	tech_general	v4									UNKNOWN
-Lumatide	lumatide.com	tech_general	v4									UNKNOWN
+Lumatic	lumatic.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Lumatide	lumatide.com	tech_general	v4	TAKEN				0	0	0		TAKEN
 Lumatier	lumatier.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Lumavos	lumavos.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Lumbaxis	lumbaxis.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
@@ -381,164 +381,164 @@ Lumdek	lumdek.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Lumdord	lumdord.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Lumdova	lumdova.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Lumdroma	lumdroma.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Lumendel	lumendel.com	pro_invented_short	v1									UNKNOWN
-Lumera	lumera.com	enterprise_invented	v2									UNKNOWN
-Lumeris	lumeris.com	enterprise_invented	v2									UNKNOWN
+Lumendel	lumendel.com	pro_invented_short	v1	TAKEN				0	0	0		TAKEN
+Lumera	lumera.com	enterprise_invented	v2	TAKEN				2	1	3	Lumera Advisory Inc. (Active)	TAKEN
+Lumeris	lumeris.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
 Lumeska	lumeska.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Lumitas	lumitas.com	tech_latin_abstract	v3									UNKNOWN
-Lumivity	lumivity.com	tech_general	v5									UNKNOWN
-Lummex	lummex.com	tech_general	v5									UNKNOWN
-Lumodex	lumodex.com	tech_general	v4									UNKNOWN
-Lumometric	lumometric.com	tech_general	v4									UNKNOWN
-Lumonex	lumonex.com	tech_general	v4									UNKNOWN
+Lumitas	lumitas.com	tech_latin_abstract	v3	TAKEN				0	0	0		TAKEN
+Lumivity	lumivity.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Lummex	lummex.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Lumodex	lumodex.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Lumometric	lumometric.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Lumonex	lumonex.com	tech_general	v4	TAKEN				0	0	0		TAKEN
 Lumorant	lumorant.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Lumoria	lumoria.com	tech_general	v5									UNKNOWN
+Lumoria	lumoria.com	tech_general	v5	TAKEN				1	0	1	Lumoria Inc. (Active)	TAKEN
 Lumovaris	lumovaris.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Lumraxis	lumraxis.com	tech_latin_abstract	v3									UNKNOWN
-Lumtor	lumtor.com	tech_general	v5									UNKNOWN
+Lumraxis	lumraxis.com	tech_latin_abstract	v3	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Lumtor	lumtor.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Lumveriant	lumveriant.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Lumveritas	lumveritas.com	tech_latin_abstract	v3									UNKNOWN
-Lumverith	lumverith.com	tech_general	v4									UNKNOWN
-Lumvex	lumvex.com	tech_general	v5									UNKNOWN
-Lumvik	lumvik.com	tech_general	v5									UNKNOWN
-Lumvo	lumvo.com	tech_short	v3									UNKNOWN
-Lumwave	lumwave.com	tech_general	v4									UNKNOWN
-Lupath	lupath.com	modern_abstract	v1									UNKNOWN
-Lurent	lurent.com	modern_abstract	v1									UNKNOWN
+Lumveritas	lumveritas.com	tech_latin_abstract	v3	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Lumverith	lumverith.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Lumvex	lumvex.com	tech_general	v5	TAKEN				1	0	1	LUMVEX ELECTRIC INC. (Active)	TAKEN
+Lumvik	lumvik.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Lumvo	lumvo.com	tech_short	v3	TAKEN				0	0	0		TAKEN
+Lumwave	lumwave.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Lupath	lupath.com	modern_abstract	v1	TAKEN				0	0	0		TAKEN
+Lurent	lurent.com	modern_abstract	v1	TAKEN				0	0	0		TAKEN
 Lurmento	lurmento.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 M34Bridge	m34bridge.com	personal_brand	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 M34Built	m34built.com	personal_brand	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 M34Digital	m34digital.com	personal_brand	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 M34Forge	m34forge.com	personal_brand	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-M34Group	m34group.com	personal_brand	v1									UNKNOWN
+M34Group	m34group.com	personal_brand	v1	TAKEN				0	0	0		TAKEN
 M34Holdings	m34holdings.com	personal_brand	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 M34Labs	m34labs.com	personal_brand	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 M34Studio	m34studio.com	personal_brand	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 M34Works	m34works.com	personal_brand	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Magnusforge	magnusforge.com	greek_roman_chad	v2									UNKNOWN
-Magnusridge	magnusridge.com	greek_roman_chad	v2									UNKNOWN
-Magnusvault	magnusvault.com	greek_roman_chad	v2									UNKNOWN
-Magnusworks	magnusworks.com	greek_roman_chad	v2									UNKNOWN
-Maplewright	maplewright.com	two_word_pro	v1									UNKNOWN
-Marador	marador.com	tech_mid	v3									UNKNOWN
-Marandel	marandel.com	enterprise_invented	v2									UNKNOWN
-Marandor	marandor.com	tech_mid	v3									UNKNOWN
+Magnusforge	magnusforge.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
+Magnusridge	magnusridge.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
+Magnusvault	magnusvault.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
+Magnusworks	magnusworks.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
+Maplewright	maplewright.com	two_word_pro	v1	TAKEN				0	0	0		TAKEN
+Marador	marador.com	tech_mid	v3	TAKEN				0	0	0		TAKEN
+Marandel	marandel.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
+Marandor	marandor.com	tech_mid	v3	TAKEN				0	0	0		TAKEN
 Maranence	maranence.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Marant	marant.com	tech_modern	v3									UNKNOWN
-Marantha	marantha.com	enterprise_invented	v2									UNKNOWN
+Marant	marant.com	tech_modern	v3	TAKEN				0	0	0		TAKEN
+Marantha	marantha.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
 Marantheria	marantheria.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Marare	marare.com	tech_modern	v3									UNKNOWN
+Marare	marare.com	tech_modern	v3	TAKEN				0	0	0		TAKEN
 Maratial	maratial.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Maratic	maratic.com	tech_general	v4									UNKNOWN
-Maratide	maratide.com	tech_general	v4									UNKNOWN
-Maratier	maratier.com	tech_general	v5									UNKNOWN
-Marbase	marbase.com	tech_modern	v3									UNKNOWN
+Maratic	maratic.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Maratide	maratide.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Maratier	maratier.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Marbase	marbase.com	tech_modern	v3	TAKEN				0	0	0		TAKEN
 Marbaxis	marbaxis.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Marbonia	marbonia.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Marcore	marcore.com	tech_general	v4									UNKNOWN
-Mardanti	mardanti.com	tech_modern	v3									UNKNOWN
-Mardek	mardek.com	tech_general	v5									UNKNOWN
+Marcore	marcore.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Mardanti	mardanti.com	tech_modern	v3	TAKEN				0	0	0		TAKEN
+Mardek	mardek.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Marderon	marderon.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Mardord	mardord.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Mardova	mardova.com	tech_general	v5									UNKNOWN
+Mardova	mardova.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Mardroma	mardroma.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Maredo	maredo.com	short_invented	v6	TAKEN				0	0	0		TAKEN
 Maredonia	maredonia.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Maredor	maredor.com	tech_general	v5									UNKNOWN
+Maredor	maredor.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Marendel	marendel.com	pro_invented_short	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Marendoth	marendoth.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Marendra	marendra.com	tech_general	v4									UNKNOWN
-Mareska	mareska.com	tech_general	v5									UNKNOWN
-Maresta	maresta.com	tech_general	v5									UNKNOWN
-Margrid	margrid.com	tech_general	v4									UNKNOWN
+Marendra	marendra.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Mareska	mareska.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Maresta	maresta.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Margrid	margrid.com	tech_general	v4	TAKEN				0	0	0		TAKEN
 Maridelle	maridelle.com	pro_invented_long	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Marideth	marideth.com	pro_invented_long	v1		None	None	None	0	0	0		UNKNOWN
+Marideth	marideth.com	pro_invented_long	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Maridicta	maridicta.com	enterprise_invented	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Marila	marila.com	tech_mid	v3									UNKNOWN
-Marinova	marinova.com	tech_general	v4									UNKNOWN
-Marioca	marioca.com	tech_general	v4									UNKNOWN
-Mariros	mariros.com	tech_general	v4									UNKNOWN
-Maris	maris.com	tech_general	v5									UNKNOWN
-Maritheon	maritheon.com	tech_general	v4									UNKNOWN
-Marivell	marivell.com	tech_mid	v3									UNKNOWN
+Marila	marila.com	tech_mid	v3	TAKEN				0	2	2	MARILA METAL (FNF) INC. (Dissolved by the cor)	TAKEN
+Marinova	marinova.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Marioca	marioca.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Mariros	mariros.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Maris	maris.com	tech_general	v5	TAKEN				5	5	10	BODNAR & MARIS INC. (Dissolved for non-co)	TAKEN
+Maritheon	maritheon.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Marivell	marivell.com	tech_mid	v3	TAKEN				0	0	0		TAKEN
 Mariverth	mariverth.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Marivity	marivity.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Marivok	marivok.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Marivos	marivos.com	tech_general	v4									UNKNOWN
+Marivos	marivos.com	tech_general	v4	TAKEN				0	0	0		TAKEN
 Marivox	marivox.com	modern_startup	v6	TAKEN				0	0	0		TAKEN
-Marlight	marlight.com	tech_general	v4									UNKNOWN
-Marmex	marmex.com	tech_general	v5									UNKNOWN
+Marlight	marlight.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Marmex	marmex.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Marnex	marnex.com	short_invented	v6	TAKEN				0	0	0		TAKEN
-Marodex	marodex.com	tech_general	v4									UNKNOWN
+Marodex	marodex.com	tech_general	v4	TAKEN				0	0	0		TAKEN
 Marometric	marometric.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Maronex	maronex.com	tech_general	v4									UNKNOWN
+Maronex	maronex.com	tech_general	v4	TAKEN				0	1	1	MARONEX IMPEX INC. (Dissolved for non-co)	TAKEN
 Marorant	marorant.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Maroria	maroria.com	tech_general	v5									UNKNOWN
+Maroria	maroria.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Marostra	marostra.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Marovaris	marovaris.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Marpath	marpath.com	tech_general	v5									UNKNOWN
-Marpeak	marpeak.com	tech_general	v4									UNKNOWN
-Marplex	marplex.com	compound_modern	v1									UNKNOWN
-Marprime	marprime.com	tech_general	v4									UNKNOWN
-Marquit	marquit.com	pro_invented_short	v1									UNKNOWN
-Marraxis	marraxis.com	tech_latin_abstract	v3									UNKNOWN
-Marridge	marridge.com	tech_general	v5									UNKNOWN
-Marriver	marriver.com	tech_general	v4									UNKNOWN
-Marsforge	marsforge.com	greek_roman_chad	v2									UNKNOWN
-Marsridge	marsridge.com	greek_roman_chad	v2									UNKNOWN
-Marsummit	marsummit.com	tech_general	v4									UNKNOWN
-Marsworks	marsworks.com	greek_roman_chad	v2									UNKNOWN
-Martor	martor.com	tech_general	v5									UNKNOWN
-Marvanta	marvanta.com	enterprise_invented	v2									UNKNOWN
+Marpath	marpath.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Marpeak	marpeak.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Marplex	marplex.com	compound_modern	v1	TAKEN				0	0	0		TAKEN
+Marprime	marprime.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Marquit	marquit.com	pro_invented_short	v1	TAKEN				0	0	0		TAKEN
+Marraxis	marraxis.com	tech_latin_abstract	v3	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Marridge	marridge.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Marriver	marriver.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Marsforge	marsforge.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
+Marsridge	marsridge.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
+Marsummit	marsummit.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Marsworks	marsworks.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
+Martor	martor.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Marvanta	marvanta.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
 Marvara	marvara.com	modern_startup	v6	TAKEN				0	0	0		TAKEN
 Marvedos	marvedos.com	enterprise_invented	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Marvell	marvell.com	pro_invented_short	v1									UNKNOWN
-Marvenza	marvenza.com	enterprise_invented	v2									UNKNOWN
+Marvell	marvell.com	pro_invented_short	v1	TAKEN				0	0	0		TAKEN
+Marvenza	marvenza.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
 Marveriant	marveriant.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Marveric	marveric.com	enterprise_invented	v2									UNKNOWN
-Marveris	marveris.com	enterprise_invented	v2									UNKNOWN
-Marveritas	marveritas.com	tech_latin_abstract	v3									UNKNOWN
-Marvex	marvex.com	compound_modern	v1									UNKNOWN
-Marvik	marvik.com	tech_general	v5									UNKNOWN
-Marvor	marvor.com	tech_general	v5									UNKNOWN
-Marvora	marvora.com	tech_short	v3									UNKNOWN
+Marveric	marveric.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
+Marveris	marveris.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
+Marveritas	marveritas.com	tech_latin_abstract	v3	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Marvex	marvex.com	compound_modern	v1	TAKEN				0	0	0		TAKEN
+Marvik	marvik.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Marvor	marvor.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Marvora	marvora.com	tech_short	v3	TAKEN				0	0	0		TAKEN
 Marvox	marvox.com	short_invented	v1,v6	TAKEN				0	0	0		TAKEN
-Marwave	marwave.com	tech_general	v4									UNKNOWN
+Marwave	marwave.com	tech_general	v4	TAKEN				0	0	0		TAKEN
 Marwright	marwright.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Maximusforge	maximusforge.com	greek_roman_chad	v2									UNKNOWN
-Maximusworks	maximusworks.com	greek_roman_chad	v2									UNKNOWN
+Maximusforge	maximusforge.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
+Maximusworks	maximusworks.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
 MaxLabs34	maxlabs34.com	personal_brand	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Maxwell34	maxwell34.com	personal_brand	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-MaxwellForge	maxwellforge.com	personal_brand	v1									UNKNOWN
-MaxwellGroup	maxwellgroup.com	personal_brand	v1									UNKNOWN
-MaxwellLabs	maxwelllabs.com	personal_brand	v1									UNKNOWN
-MaxwellWorks	maxwellworks.com	personal_brand	v1									UNKNOWN
+MaxwellForge	maxwellforge.com	personal_brand	v1	TAKEN				0	0	0		TAKEN
+MaxwellGroup	maxwellgroup.com	personal_brand	v1	TAKEN				0	0	0		TAKEN
+MaxwellLabs	maxwelllabs.com	personal_brand	v1	TAKEN				0	0	0		TAKEN
+MaxwellWorks	maxwellworks.com	personal_brand	v1	TAKEN				0	0	0		TAKEN
 MaxworkLabs	maxworklabs.com	personal_brand	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Maxxedge	maxxedge.com	moggy_sigma	v2									UNKNOWN
+Maxxedge	maxxedge.com	moggy_sigma	v2	TAKEN				0	0	0		TAKEN
 Maxxsavage	maxxsavage.com	moggy_sigma	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Maxxsigma	maxxsigma.com	moggy_sigma	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Maxxstride	maxxstride.com	moggy_sigma	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Maxxvault	maxxvault.com	moggy_sigma	v2									UNKNOWN
+Maxxvault	maxxvault.com	moggy_sigma	v2	TAKEN				0	1	1	MAXXVAULT CANADA INC. (Dissolved by the cor)	TAKEN
 McInnisBuilt	mcinnisbuilt.com	personal_brand	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-McInnisCo	mcinnisco.com	personal_brand	v1									UNKNOWN
+McInnisCo	mcinnisco.com	personal_brand	v1	TAKEN				0	0	0		TAKEN
 McInnisCraft	mcinniscraft.com	personal_brand	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-McInnisDigital	mcinnisdigital.com	personal_brand	v1									UNKNOWN
-McInnisGroup	mcinnisgroup.com	personal_brand	v1									UNKNOWN
-McInnisHoldings	mcinnisholdings.com	personal_brand	v1									UNKNOWN
+McInnisDigital	mcinnisdigital.com	personal_brand	v1	TAKEN				0	0	0		TAKEN
+McInnisGroup	mcinnisgroup.com	personal_brand	v1	TAKEN				0	0	0		TAKEN
+McInnisHoldings	mcinnisholdings.com	personal_brand	v1	TAKEN				0	0	0		TAKEN
 McInnisLabs	mcinnislabs.com	personal_brand	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 McInnisPartners	mcinnispartners.com	personal_brand	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-McInnisStudio	mcinnisstudio.com	personal_brand	v1									UNKNOWN
+McInnisStudio	mcinnisstudio.com	personal_brand	v1	TAKEN				0	0	0		TAKEN
 McInnisVentures	mcinnisventures.com	personal_brand	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 McInnisWorks	mcinnisworks.com	personal_brand	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Mercuryforge	mercuryforge.com	greek_roman_chad	v2									UNKNOWN
-Mercuryvault	mercuryvault.com	greek_roman_chad	v2									UNKNOWN
-Mercuryworks	mercuryworks.com	greek_roman_chad	v2									UNKNOWN
+Mercuryforge	mercuryforge.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
+Mercuryvault	mercuryvault.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
+Mercuryworks	mercuryworks.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
 Meredelin	meredelin.com	pro_invented_long	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Mernovic	mernovic.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Mernovis	mernovis.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Mireo	mireo.com	tech_short	v3									UNKNOWN
+Mireo	mireo.com	tech_short	v3	TAKEN				0	0	0		TAKEN
 Mirivant	mirivant.com	compound_modern	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Mirvex	mirvex.com	modern_abstract	v1									UNKNOWN
+Mirvex	mirvex.com	modern_abstract	v1	TAKEN				0	0	0		TAKEN
 Mississauga34	mississauga34.com	geographic	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Mississaugabay	mississaugabay.com	geographic	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 MississaugaCraft	mississaugacraft.com	geographic	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
@@ -555,38 +555,38 @@ Mogsteel	mogsteel.com	moggy_sigma	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Mogstride	mogstride.com	moggy_sigma	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Mogthrust	mogthrust.com	moggy_sigma	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Mogvault	mogvault.com	moggy_sigma	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Morexa	morexa.com	enterprise_invented	v2									UNKNOWN
+Morexa	morexa.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
 Morvenix	morvenix.com	latin_long	v6	TAKEN				0	0	0		TAKEN
 Mrovendel	mrovendel.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Nendrarik	nendrarik.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Norandel	norandel.com	enterprise_invented	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Norandor	norandor.com	tech_mid	v3									UNKNOWN
-Norant	norant.com	tech_modern	v3									UNKNOWN
+Norandor	norandor.com	tech_mid	v3	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Norant	norant.com	tech_modern	v3	TAKEN				0	0	0		TAKEN
 Nordendros	nordendros.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Norellis	norellis.com	modern_abstract	v1									UNKNOWN
-Norelo	norelo.com	enterprise_invented	v2									UNKNOWN
+Norellis	norellis.com	modern_abstract	v1	TAKEN				0	0	0		TAKEN
+Norelo	norelo.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
 Norindra	norindra.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Norora	norora.com	tech_short	v3									UNKNOWN
-Norplex	norplex.com	compound_modern	v1									UNKNOWN
-Norraxis	norraxis.com	tech_latin_abstract	v3									UNKNOWN
+Norora	norora.com	tech_short	v3	TAKEN				0	0	0		TAKEN
+Norplex	norplex.com	compound_modern	v1	TAKEN				0	0	0		TAKEN
+Norraxis	norraxis.com	tech_latin_abstract	v3	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Northbrook	northbrook.com	two_word	v6	TAKEN				1	0	1	Northbrook Consulting Services Inc. (Active)	TAKEN
-Northfield	northfield.com	tech_general	v5									UNKNOWN
+Northfield	northfield.com	tech_general	v5	TAKEN				5	3	8	PAUL NORTHFIELD ENTERPRISES INC. LES ENT (Dissolved by the cor)	TAKEN
 Northpoint	northpoint.com	two_word	v6	TAKEN				15	5	20	NORTHPOINT SOFTWARE CANADA INC. NORTHPOI (Dissolved for non-co)	TAKEN
-Northport	northport.com	tech_general	v5									UNKNOWN
-Northridge	northridge.com	tech_general	v5									UNKNOWN
-Northstone	northstone.com	tech_general	v5									UNKNOWN
-Northwell	northwell.com	tech_general	v5									UNKNOWN
-Northwright	northwright.com	two_word_pro	v1									UNKNOWN
+Northport	northport.com	tech_general	v5	TAKEN				2	0	2	NORTHPORT INVESTMENT INC. (Active)	TAKEN
+Northridge	northridge.com	tech_general	v5	TAKEN				1	8	9	Northridge Canada Inc. (Inactive - Amalgamat)	TAKEN
+Northstone	northstone.com	tech_general	v5	TAKEN				6	1	7	Northstone Builds Inc. (Active)	TAKEN
+Northwell	northwell.com	tech_general	v5	TAKEN				3	0	3	NORTHWELL CAPITAL CORPORATION (Active)	TAKEN
+Northwright	northwright.com	two_word_pro	v1	TAKEN				0	0	0		TAKEN
 Norvanence	norvanence.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Norvanis	norvanis.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Norvanova	norvanova.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Norvant	norvant.com	compound_modern	v1									UNKNOWN
-Norvanta	norvanta.com	enterprise_invented	v2									UNKNOWN
+Norvant	norvant.com	compound_modern	v1	TAKEN				0	0	0		TAKEN
+Norvanta	norvanta.com	enterprise_invented	v2	TAKEN				1	0	1	NORVANTA CONTRACTORS INC. (Active)	TAKEN
 Norvantheria	norvantheria.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Norvara	norvara.com	modern_startup	v6	TAKEN				0	0	0		TAKEN
-Norvare	norvare.com	tech_modern	v3									UNKNOWN
+Norvare	norvare.com	tech_modern	v3	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Norvarica	norvarica.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Norvaris	norvaris.com	tech_general	v5									UNKNOWN
+Norvaris	norvaris.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Norvaros	norvaros.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Norvatial	norvatial.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Norvatic	norvatic.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
@@ -596,52 +596,52 @@ Norvavera	norvavera.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Norvavos	norvavos.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Norvbaxis	norvbaxis.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Norvbonia	norvbonia.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Norvdanti	norvdanti.com	tech_modern	v3									UNKNOWN
+Norvdanti	norvdanti.com	tech_modern	v3	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Norvdek	norvdek.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Norvdord	norvdord.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Norvdova	norvdova.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Norvdroma	norvdroma.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Norvedos	norvedos.com	enterprise_invented	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Norvelron	norvelron.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Norven	norven.com	modern_abstract	v1									UNKNOWN
+Norven	norven.com	modern_abstract	v1	TAKEN				1	0	1	Norven Holdings Inc. (Active)	TAKEN
 Norveriant	norveriant.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Norveris	norveris.com	enterprise_invented	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Norveritas	norveritas.com	tech_latin_abstract	v3									UNKNOWN
+Norveritas	norveritas.com	tech_latin_abstract	v3	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Norverith	norverith.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Norveska	norveska.com	tech_general	v5									UNKNOWN
-Norvesta	norvesta.com	tech_general	v5									UNKNOWN
+Norveska	norveska.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Norvesta	norvesta.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Norvex	norvex.com	short_invented	v1,v6	TAKEN				2	0	2	Norvex Équipement inc. Norvex Equipment  (Active)	TAKEN
-Norvic	norvic.com	enterprise_invented	v2									UNKNOWN
-Norvik	norvik.com	tech_general	v5									UNKNOWN
+Norvic	norvic.com	enterprise_invented	v2	TAKEN				1	2	3	Les IMPORTATIONS NORVIC LtÉE NORVIC IMPO (Dissolved by the cor)	TAKEN
+Norvik	norvik.com	tech_general	v5	TAKEN				2	3	5	Aviation Norvik Inc. (Active)	TAKEN
 Norvitheon	norvitheon.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Norvivity	norvivity.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Norvmex	norvmex.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Norvo	norvo.com	tech_short	v3									UNKNOWN
+Norvo	norvo.com	tech_short	v3	TAKEN				0	0	0		TAKEN
 Norvodex	norvodex.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Norvometric	norvometric.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Norvonex	norvonex.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Norvor	norvor.com	tech_general	v5									UNKNOWN
+Norvor	norvor.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Norvorant	norvorant.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Norvoria	norvoria.com	tech_general	v5									UNKNOWN
+Norvoria	norvoria.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Norvostra	norvostra.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Norvovaris	norvovaris.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Norvtor	norvtor.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Norvwave	norvwave.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Nrovendel	nrovendel.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Oakreach	oakreach.com	two_word_pro	v1									UNKNOWN
+Oakreach	oakreach.com	two_word_pro	v1	TAKEN				0	0	0		TAKEN
 Oakvalley	oakvalley.com	two_word	v6	TAKEN				0	0	0		TAKEN
-Olvana	olvana.com	tech_mid	v3									UNKNOWN
+Olvana	olvana.com	tech_mid	v3	TAKEN				0	0	0		TAKEN
 Olvandel	olvandel.com	enterprise_invented	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Olvandor	olvandor.com	tech_mid	v3									UNKNOWN
+Olvandor	olvandor.com	tech_mid	v3	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Olvanence	olvanence.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Olvania	olvania.com	pro_invented_short	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Olvanova	olvanova.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Olvant	olvant.com	tech_modern	v3									UNKNOWN
-Olvanta	olvanta.com	enterprise_invented	v2									UNKNOWN
+Olvant	olvant.com	tech_modern	v3	TAKEN				0	0	0		TAKEN
+Olvanta	olvanta.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
 Olvantheria	olvantheria.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Olvarae	olvarae.com	enterprise_invented	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Olvare	olvare.com	tech_modern	v3									UNKNOWN
-Olvaris	olvaris.com	tech_general	v5									UNKNOWN
+Olvare	olvare.com	tech_modern	v3	TAKEN				0	0	0		TAKEN
+Olvaris	olvaris.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Olvarista	olvarista.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Olvarith	olvarith.com	pro_invented_long	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Olvaros	olvaros.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
@@ -650,11 +650,11 @@ Olvatic	olvatic.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Olvatide	olvatide.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Olvatier	olvatier.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Olvavos	olvavos.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Olvbase	olvbase.com	tech_modern	v3									UNKNOWN
+Olvbase	olvbase.com	tech_modern	v3	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Olvbaxis	olvbaxis.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Olvbonia	olvbonia.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Olvcore	olvcore.com	tech_general	v4									UNKNOWN
-Olvdanti	olvdanti.com	tech_modern	v3									UNKNOWN
+Olvcore	olvcore.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Olvdanti	olvdanti.com	tech_modern	v3	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Olvdek	olvdek.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Olvdord	olvdord.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Olvdova	olvdova.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
@@ -666,17 +666,17 @@ Olvenova	olvenova.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Olverdon	olverdon.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Olveriant	olveriant.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Olveric	olveric.com	enterprise_invented	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Olveris	olveris.com	enterprise_invented	v2									UNKNOWN
-Olveritas	olveritas.com	tech_latin_abstract	v3									UNKNOWN
+Olveris	olveris.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
+Olveritas	olveritas.com	tech_latin_abstract	v3	TAKEN				0	0	0		TAKEN
 Olverith	olverith.com	pro_invented_long	v1,v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Olverra	olverra.com	pro_invented_short	v1									UNKNOWN
-Olvert	olvert.com	pro_invented_short	v1									UNKNOWN
+Olverra	olverra.com	pro_invented_short	v1	TAKEN				0	0	0		TAKEN
+Olvert	olvert.com	pro_invented_short	v1	TAKEN				0	0	0		TAKEN
 Olveska	olveska.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Olvesta	olvesta.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Olvex	olvex.com	tech_general	v5									UNKNOWN
+Olvex	olvex.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Olvgrid	olvgrid.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Olviantra	olviantra.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Olvik	olvik.com	tech_general	v5									UNKNOWN
+Olvik	olvik.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Olvitheon	olvitheon.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Olvivity	olvivity.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Olvlight	olvlight.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
@@ -684,17 +684,17 @@ Olvmex	olvmex.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Olvodex	olvodex.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Olvometric	olvometric.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Olvonex	olvonex.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Olvor	olvor.com	tech_general	v5									UNKNOWN
-Olvora	olvora.com	tech_short	v3									UNKNOWN
+Olvor	olvor.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Olvora	olvora.com	tech_short	v3	TAKEN				0	0	0		TAKEN
 Olvorant	olvorant.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Olvoria	olvoria.com	tech_general	v5									UNKNOWN
+Olvoria	olvoria.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Olvostra	olvostra.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Olvovaris	olvovaris.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Olvox	olvox.com	tech_short	v3									UNKNOWN
+Olvox	olvox.com	tech_short	v3	TAKEN				0	0	0		TAKEN
 Olvpath	olvpath.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Olvpeak	olvpeak.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Olvprime	olvprime.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Olvraxis	olvraxis.com	tech_latin_abstract	v3									UNKNOWN
+Olvraxis	olvraxis.com	tech_latin_abstract	v3	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Olvridge	olvridge.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Olvrik	olvrik.com	pro_invented_short	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Olvriver	olvriver.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
@@ -702,84 +702,84 @@ Olvsummit	olvsummit.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Olvtor	olvtor.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Olvwave	olvwave.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Olvwright	olvwright.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Olympiaforge	olympiaforge.com	greek_roman_chad	v2									UNKNOWN
-Olympiaworks	olympiaworks.com	greek_roman_chad	v2									UNKNOWN
+Olympiaforge	olympiaforge.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
+Olympiaworks	olympiaworks.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
 Orovendel	orovendel.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Orvarist	orvarist.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Orvelantha	orvelantha.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Orvelta	orvelta.com	tech_general	v4									UNKNOWN
+Orvelta	orvelta.com	tech_general	v4	TAKEN				0	0	0		TAKEN
 Ostralor	ostralor.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Patientwell	patientwell.com	two_word_pro	v1									UNKNOWN
-Pegasos	pegasos.com	tech_latin_abstract	v3									UNKNOWN
+Patientwell	patientwell.com	two_word_pro	v1	TAKEN				0	0	0		TAKEN
+Pegasos	pegasos.com	tech_latin_abstract	v3	TAKEN				0	0	0		TAKEN
 Pelanta	pelanta.com	enterprise_invented	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Pelden	pelden.com	modern_abstract	v1									UNKNOWN
-Pelica	pelica.com	tech_mid	v3									UNKNOWN
+Pelden	pelden.com	modern_abstract	v1	TAKEN				0	0	0		TAKEN
+Pelica	pelica.com	tech_mid	v3	TAKEN				0	0	0		TAKEN
 Pelmarist	pelmarist.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Pelmaron	pelmaron.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Pelmedora	pelmedora.com	tech_general	v4									UNKNOWN
-Peltarion	peltarion.com	tech_general	v4									UNKNOWN
-Pelvarist	pelvarist.com	tech_general	v4									UNKNOWN
+Pelmedora	pelmedora.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Peltarion	peltarion.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Pelvarist	pelvarist.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Pelvarith	pelvarith.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Pelvarum	pelvarum.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Pelvor	pelvor.com	tech_general	v5									UNKNOWN
+Pelvor	pelvor.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Pendarix	pendarix.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Pengrid	pengrid.com	tech_modern	v3									UNKNOWN
+Pengrid	pengrid.com	tech_modern	v3	TAKEN				0	0	0		TAKEN
 Pinewright	pinewright.com	two_word_pro	v1,v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Plenadron	plenadron.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Plenandel	plenandel.com	enterprise_invented	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Plenanence	plenanence.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Plenant	plenant.com	tech_modern	v3									UNKNOWN
-Plenantheria	plenantheria.com	tech_general	v4									UNKNOWN
-Plenare	plenare.com	tech_modern	v3									UNKNOWN
-Plenarica	plenarica.com	tech_general	v4									UNKNOWN
-Plenaris	plenaris.com	tech_general	v5									UNKNOWN
-Plenaros	plenaros.com	tech_general	v4									UNKNOWN
+Plenant	plenant.com	tech_modern	v3	TAKEN				0	0	0		TAKEN
+Plenantheria	plenantheria.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Plenare	plenare.com	tech_modern	v3	TAKEN				0	0	0		TAKEN
+Plenarica	plenarica.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Plenaris	plenaris.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Plenaros	plenaros.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Plenatial	plenatial.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Plenatic	plenatic.com	tech_general	v4									UNKNOWN
-Plenatide	plenatide.com	tech_general	v4									UNKNOWN
+Plenatic	plenatic.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Plenatide	plenatide.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Plenatier	plenatier.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Plenavara	plenavara.com	tech_general	v4									UNKNOWN
-Plenavos	plenavos.com	tech_general	v4									UNKNOWN
+Plenavara	plenavara.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Plenavos	plenavos.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Plenbaxis	plenbaxis.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Plenbonia	plenbonia.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Plendanti	plendanti.com	tech_modern	v3									UNKNOWN
+Plendanti	plendanti.com	tech_modern	v3	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Plendek	plendek.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Plendex	plendex.com	compound_modern	v1									UNKNOWN
-Plendo	plendo.com	tech_short	v3									UNKNOWN
-Plendor	plendor.com	pro_invented_short	v1									UNKNOWN
+Plendex	plendex.com	compound_modern	v1	TAKEN				0	0	0		TAKEN
+Plendo	plendo.com	tech_short	v3	TAKEN				0	0	0		TAKEN
+Plendor	plendor.com	pro_invented_short	v1	TAKEN				0	0	0		TAKEN
 Plendord	plendord.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Plendova	plendova.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Plendroma	plendroma.com	tech_general	v4									UNKNOWN
+Plendroma	plendroma.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Plenedos	plenedos.com	enterprise_invented	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Pleneska	pleneska.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Plenitheon	plenitheon.com	tech_general	v4									UNKNOWN
+Plenitheon	plenitheon.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Plenivity	plenivity.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Plenmex	plenmex.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Plenodex	plenodex.com	tech_general	v4									UNKNOWN
-Plenometric	plenometric.com	tech_general	v4									UNKNOWN
-Plenonex	plenonex.com	tech_general	v4									UNKNOWN
+Plenodex	plenodex.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Plenometric	plenometric.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Plenonex	plenonex.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Plenor	plenor.com	short_invented	v6	TAKEN				0	0	0		TAKEN
-Plenora	plenora.com	tech_short	v3									UNKNOWN
-Plenorant	plenorant.com	tech_general	v4									UNKNOWN
-Plenoria	plenoria.com	tech_general	v5									UNKNOWN
-Plenova	plenova.com	tech_general	v4									UNKNOWN
+Plenora	plenora.com	tech_short	v3	TAKEN				0	0	0		TAKEN
+Plenorant	plenorant.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Plenoria	plenoria.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Plenova	plenova.com	tech_general	v4	TAKEN				0	0	0		TAKEN
 Plenovaris	plenovaris.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Plenraxis	plenraxis.com	tech_latin_abstract	v3									UNKNOWN
-Plentor	plentor.com	tech_general	v5									UNKNOWN
-Plenveriant	plenveriant.com	tech_general	v4									UNKNOWN
-Plenveritas	plenveritas.com	tech_latin_abstract	v3									UNKNOWN
-Plenverith	plenverith.com	tech_general	v4									UNKNOWN
-Plenvex	plenvex.com	tech_general	v5									UNKNOWN
+Plenraxis	plenraxis.com	tech_latin_abstract	v3	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Plentor	plentor.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Plenveriant	plenveriant.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Plenveritas	plenveritas.com	tech_latin_abstract	v3	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Plenverith	plenverith.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Plenvex	plenvex.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Plenvik	plenvik.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Plenwave	plenwave.com	tech_general	v4									UNKNOWN
-Plevor	plevor.com	enterprise_invented	v2									UNKNOWN
-Plyma	plyma.com	tech_short	v3									UNKNOWN
-Plymara	plymara.com	tech_general	v4									UNKNOWN
-Plyna	plyna.com	enterprise_invented	v2									UNKNOWN
-Plyx	plyx.com	tech_short	v3									UNKNOWN
-Plyxora	plyxora.com	tech_short	v3									UNKNOWN
-Polant	polant.com	tech_modern	v3									UNKNOWN
-Polden	polden.com	modern_abstract	v1									UNKNOWN
+Plenwave	plenwave.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Plevor	plevor.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
+Plyma	plyma.com	tech_short	v3	TAKEN				0	0	0		TAKEN
+Plymara	plymara.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Plyna	plyna.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
+Plyx	plyx.com	tech_short	v3	TAKEN				0	0	0		TAKEN
+Plyxora	plyxora.com	tech_short	v3	TAKEN				0	0	0		TAKEN
+Polant	polant.com	tech_modern	v3	TAKEN				0	0	0		TAKEN
+Polden	polden.com	modern_abstract	v1	TAKEN				0	0	0		TAKEN
 PortCreditCo	portcreditco.com	geographic	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 PortCreditDigital	portcreditdigital.com	geographic	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 PortCreditGroup	portcreditgroup.com	geographic	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
@@ -788,449 +788,449 @@ PortCreditPartners	portcreditpartners.com	geographic	v1	AVAILABLE	11.08	11.08	no
 PortCreditStudio	portcreditstudio.com	geographic	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 PortCreditWorks	portcreditworks.com	geographic	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Praetorforge	praetorforge.com	greek_roman_chad	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Praetorian	praetorian.com	greek_roman_chad	v2									UNKNOWN
+Praetorian	praetorian.com	greek_roman_chad	v2	TAKEN				4	3	7	PRAETORIAN GUARD INTERNATIONAL HOLDING C (Dissolved for non-co)	TAKEN
 Praetorworks	praetorworks.com	greek_roman_chad	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Pravantis	pravantis.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Pravara	pravara.com	modern_startup	v6	TAKEN				0	0	0		TAKEN
-Praven	praven.com	modern_abstract	v1									UNKNOWN
-Pravex	pravex.com	enterprise_invented	v2									UNKNOWN
-Pravin	pravin.com	tech_general	v5									UNKNOWN
+Praven	praven.com	modern_abstract	v1	TAKEN				0	0	0		TAKEN
+Pravex	pravex.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
+Pravin	pravin.com	tech_general	v5	TAKEN				2	0	2	pravIN CRM Solutions  Inc. (Active)	TAKEN
 Pravix	pravix.com	short_invented	v6	TAKEN				0	0	0		TAKEN
 Pravora	pravora.com	modern_startup	v6	TAKEN				0	0	0		TAKEN
-Praxara	praxara.com	tech_latin_abstract	v3									UNKNOWN
-Praxion	praxion.com	pro_invented_short	v1									UNKNOWN
+Praxara	praxara.com	tech_latin_abstract	v3	TAKEN				0	0	0		TAKEN
+Praxion	praxion.com	pro_invented_short	v1	TAKEN				0	0	0		TAKEN
 Praxivant	praxivant.com	compound_modern	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Praxon	praxon.com	short_invented	v6	TAKEN				1	0	1	Praxon Global Inc. (Active)	TAKEN
-Praxor	praxor.com	enterprise_invented	v2									UNKNOWN
-Praxos	praxos.com	tech_mid	v3									UNKNOWN
-Prendarith	prendarith.com	tech_general	v4									UNKNOWN
-Preno	preno.com	tech_short	v3									UNKNOWN
+Praxor	praxor.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
+Praxos	praxos.com	tech_mid	v3	TAKEN				0	0	0		TAKEN
+Prendarith	prendarith.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Preno	preno.com	tech_short	v3	TAKEN				0	0	0		TAKEN
 Provendel	provendel.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Provet	provet.com	tech_general	v5									UNKNOWN
+Provet	provet.com	tech_general	v5	TAKEN				0	1	1	PROVET INC. (Dissolved by the cor)	TAKEN
 Qrovendel	qrovendel.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Quanex	quanex.com	short_invented	v6	TAKEN				0	0	0		TAKEN
-Quantix	quantix.com	tech_mid	v3									UNKNOWN
+Quantix	quantix.com	tech_mid	v3	TAKEN				1	1	2	QUANTIX TRADING CORPORATION (Dissolved for non-co)	TAKEN
 Quickforge	quickforge.com	two_word	v6	TAKEN				0	0	0		TAKEN
-Quietfield	quietfield.com	tech_general	v5									UNKNOWN
+Quietfield	quietfield.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Quietforge	quietforge.com	two_word	v6	TAKEN				0	0	0		TAKEN
-Quietport	quietport.com	tech_general	v5									UNKNOWN
-Quietridge	quietridge.com	tech_general	v5									UNKNOWN
-Quietstone	quietstone.com	tech_general	v5									UNKNOWN
-Quietwell	quietwell.com	tech_general	v5									UNKNOWN
+Quietport	quietport.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Quietridge	quietridge.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Quietstone	quietstone.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Quietwell	quietwell.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Quintaroth	quintaroth.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Quintaval	quintaval.com	tech_general	v4									UNKNOWN
-Quintavor	quintavor.com	tech_general	v4									UNKNOWN
-Quintos	quintos.com	tech_latin_abstract	v3									UNKNOWN
+Quintaval	quintaval.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Quintavor	quintavor.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Quintos	quintos.com	tech_latin_abstract	v3	TAKEN				1	0	1	MARJORIE QUINTOS MANAGEMENT INC. GESTION (Active)	TAKEN
 Quivendor	quivendor.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Quivor	quivor.com	tech_general	v5									UNKNOWN
-Quivora	quivora.com	tech_general	v5									UNKNOWN
+Quivor	quivor.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Quivora	quivora.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Quivox	quivox.com	modern_startup	v6	TAKEN				0	0	0		TAKEN
-Quorelis	quorelis.com	tech_general	v4									UNKNOWN
-Quorindra	quorindra.com	tech_general	v4									UNKNOWN
+Quorelis	quorelis.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Quorindra	quorindra.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Quorvanth	quorvanth.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Quvara	quvara.com	modern_startup	v6	TAKEN				0	0	0		TAKEN
 Quvora	quvora.com	short_invented	v6	TAKEN				0	0	0		TAKEN
 Renvardel	renvardel.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Renvarith	renvarith.com	latin_long	v4,v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Renvor	renvor.com	tech_general	v5									UNKNOWN
-Renvora	renvora.com	tech_general	v5									UNKNOWN
+Renvor	renvor.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Renvora	renvora.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Resvanrik	resvanrik.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Romulusforge	romulusforge.com	greek_roman_chad	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Romulusworks	romulusworks.com	greek_roman_chad	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Rrovendel	rrovendel.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Senvex	senvex.com	short_invented	v6	TAKEN				0	0	0		TAKEN
 Sigmaclash	sigmaclash.com	moggy_sigma	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Sigmacore	sigmacore.com	moggy_sigma	v2									UNKNOWN
-Sigmaedge	sigmaedge.com	moggy_sigma	v2									UNKNOWN
-Sigmaforge	sigmaforge.com	moggy_sigma	v2									UNKNOWN
-Sigmagrid	sigmagrid.com	moggy_sigma	v2									UNKNOWN
-Sigmaridge	sigmaridge.com	moggy_sigma	v2									UNKNOWN
+Sigmacore	sigmacore.com	moggy_sigma	v2	TAKEN				0	0	0		TAKEN
+Sigmaedge	sigmaedge.com	moggy_sigma	v2	TAKEN				0	0	0		TAKEN
+Sigmaforge	sigmaforge.com	moggy_sigma	v2	TAKEN				1	0	1	Sigmaforge Construction and Equipment Lt (Active)	TAKEN
+Sigmagrid	sigmagrid.com	moggy_sigma	v2	TAKEN				0	0	0		TAKEN
+Sigmaridge	sigmaridge.com	moggy_sigma	v2	TAKEN				0	0	0		TAKEN
 Sigmastark	sigmastark.com	moggy_sigma	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Sigmastride	sigmastride.com	moggy_sigma	v2									UNKNOWN
-Sigmavault	sigmavault.com	moggy_sigma	v2									UNKNOWN
-Sigmaworks	sigmaworks.com	moggy_sigma	v2									UNKNOWN
-Sindalor	sindalor.com	tech_general	v4									UNKNOWN
-Sindara	sindara.com	tech_general	v4									UNKNOWN
+Sigmastride	sigmastride.com	moggy_sigma	v2	TAKEN				0	0	0		TAKEN
+Sigmavault	sigmavault.com	moggy_sigma	v2	TAKEN				0	0	0		TAKEN
+Sigmaworks	sigmaworks.com	moggy_sigma	v2	TAKEN				0	0	0		TAKEN
+Sindalor	sindalor.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Sindara	sindara.com	tech_general	v4	TAKEN				0	0	0		TAKEN
 Solandel	solandel.com	enterprise_invented	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Solandor	solandor.com	tech_mid	v3									UNKNOWN
+Solandor	solandor.com	tech_mid	v3	TAKEN				0	0	0		TAKEN
 Solanence	solanence.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Solant	solant.com	tech_modern	v3									UNKNOWN
-Solanta	solanta.com	enterprise_invented	v2									UNKNOWN
-Solanthe	solanthe.com	enterprise_invented	v2									UNKNOWN
-Solantheria	solantheria.com	tech_general	v4									UNKNOWN
-Solare	solare.com	tech_modern	v3									UNKNOWN
-Solaris	solaris.com	tech_general	v5									UNKNOWN
-Solaros	solaros.com	tech_general	v4									UNKNOWN
+Solant	solant.com	tech_modern	v3	TAKEN				0	0	0		TAKEN
+Solanta	solanta.com	enterprise_invented	v2	TAKEN				0	1	1	SOLANTA TECHNOLOGIES INC. (Dissolved by the cor)	TAKEN
+Solanthe	solanthe.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
+Solantheria	solantheria.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Solare	solare.com	tech_modern	v3	TAKEN				0	1	1	SOCIETE DELTRONIC SOLARE INC. (Dissolved by the cor)	TAKEN
+Solaris	solaris.com	tech_general	v5	TAKEN				10	10	20	SOLARIS BIKES INC. VÉLOS SOLARIS INC. (Dissolved for non-co)	TAKEN
+Solaros	solaros.com	tech_general	v4	TAKEN				0	0	0		TAKEN
 Solatial	solatial.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Solatic	solatic.com	tech_general	v4									UNKNOWN
-Solatide	solatide.com	tech_general	v4									UNKNOWN
-Solatier	solatier.com	tech_general	v5									UNKNOWN
-Solavos	solavos.com	tech_general	v4									UNKNOWN
-Solbase	solbase.com	tech_modern	v3									UNKNOWN
+Solatic	solatic.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Solatide	solatide.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Solatier	solatier.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Solavos	solavos.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Solbase	solbase.com	tech_modern	v3	TAKEN				0	0	0		TAKEN
 Solbaxis	solbaxis.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Solbonia	solbonia.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Solbrith	solbrith.com	modern_abstract	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Solcore	solcore.com	tech_general	v4									UNKNOWN
-Soldanti	soldanti.com	tech_modern	v3									UNKNOWN
-Soldek	soldek.com	tech_general	v5									UNKNOWN
-Solden	solden.com	modern_abstract	v1									UNKNOWN
+Solcore	solcore.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Soldanti	soldanti.com	tech_modern	v3	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Soldek	soldek.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Solden	solden.com	modern_abstract	v1	TAKEN				0	1	1	Solden consulting and planning services  (Dissolved by the cor)	TAKEN
 Solderon	solderon.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Soldord	soldord.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Soldova	soldova.com	tech_general	v5									UNKNOWN
-Soldroma	soldroma.com	tech_general	v4									UNKNOWN
+Soldova	soldova.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Soldroma	soldroma.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Solendrik	solendrik.com	pro_invented_long	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Solendris	solendris.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Solendros	solendros.com	tech_general	v4									UNKNOWN
-Solenta	solenta.com	enterprise_invented	v2									UNKNOWN
-Solenza	solenza.com	enterprise_invented	v2									UNKNOWN
-Solera	solera.com	tech_mid	v3									UNKNOWN
-Soleska	soleska.com	tech_general	v5									UNKNOWN
-Solesta	solesta.com	tech_general	v5									UNKNOWN
-Solgrid	solgrid.com	tech_general	v4									UNKNOWN
-Solinova	solinova.com	tech_general	v4									UNKNOWN
-Solitheon	solitheon.com	tech_general	v4									UNKNOWN
-Solivity	solivity.com	tech_general	v5									UNKNOWN
-Sollight	sollight.com	tech_general	v4									UNKNOWN
+Solendros	solendros.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Solenta	solenta.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
+Solenza	solenza.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
+Solera	solera.com	tech_mid	v3	TAKEN				0	3	3	SOLERA GROUP INC. (Dissolved by the cor)	TAKEN
+Soleska	soleska.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Solesta	solesta.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Solgrid	solgrid.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Solinova	solinova.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Solitheon	solitheon.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Solivity	solivity.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Sollight	sollight.com	tech_general	v4	TAKEN				0	0	0		TAKEN
 Solmara	solmara.com	modern_startup	v6	TAKEN				0	0	0		TAKEN
-Solmex	solmex.com	tech_general	v5									UNKNOWN
+Solmex	solmex.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Solnex	solnex.com	short_invented	v6	TAKEN				0	0	0		TAKEN
-Solodex	solodex.com	tech_general	v4									UNKNOWN
-Solometric	solometric.com	tech_general	v4									UNKNOWN
-Solonex	solonex.com	tech_general	v4									UNKNOWN
-Solorant	solorant.com	tech_general	v4									UNKNOWN
-Soloria	soloria.com	tech_general	v5									UNKNOWN
-Solostra	solostra.com	tech_general	v4									UNKNOWN
+Solodex	solodex.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Solometric	solometric.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Solonex	solonex.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Solorant	solorant.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Soloria	soloria.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Solostra	solostra.com	tech_general	v4	TAKEN				0	0	0		TAKEN
 Solovaris	solovaris.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Solpath	solpath.com	tech_general	v5									UNKNOWN
-Solpeak	solpeak.com	tech_general	v4									UNKNOWN
-Solprime	solprime.com	tech_general	v4									UNKNOWN
-Solridge	solridge.com	tech_general	v5									UNKNOWN
-Solriver	solriver.com	tech_general	v4									UNKNOWN
-Solsummit	solsummit.com	tech_general	v4									UNKNOWN
-Soltor	soltor.com	tech_general	v5									UNKNOWN
-Solvador	solvador.com	tech_mid	v3									UNKNOWN
-Solvant	solvant.com	pro_invented_short	v1									UNKNOWN
+Solpath	solpath.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Solpeak	solpeak.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Solprime	solprime.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Solridge	solridge.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Solriver	solriver.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Solsummit	solsummit.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Soltor	soltor.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Solvador	solvador.com	tech_mid	v3	TAKEN				0	0	0		TAKEN
+Solvant	solvant.com	pro_invented_short	v1	TAKEN				0	0	0		TAKEN
 Solvara	solvara.com	modern_startup	v6	TAKEN				0	0	0		TAKEN
 Solvedos	solvedos.com	enterprise_invented	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Solven	solven.com	enterprise_invented	v2									UNKNOWN
-Solvendor	solvendor.com	pro_invented_long	v1									UNKNOWN
-Solveriant	solveriant.com	tech_general	v4									UNKNOWN
-Solveric	solveric.com	enterprise_invented	v2									UNKNOWN
-Solverica	solverica.com	tech_general	v4									UNKNOWN
-Solveris	solveris.com	enterprise_invented	v2									UNKNOWN
-Solveritas	solveritas.com	tech_latin_abstract	v3									UNKNOWN
+Solven	solven.com	enterprise_invented	v2	TAKEN				1	0	1	Solven Technology Inc. (Active)	TAKEN
+Solvendor	solvendor.com	pro_invented_long	v1	TAKEN				0	0	0		TAKEN
+Solveriant	solveriant.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Solveric	solveric.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
+Solverica	solverica.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Solveris	solveris.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
+Solveritas	solveritas.com	tech_latin_abstract	v3	TAKEN				0	0	0		TAKEN
 Solvex	solvex.com	short_invented	v1,v6	TAKEN				1	1	2	SolveX Canada Inc. (Dissolved for non-co)	TAKEN
-Solvik	solvik.com	tech_general	v5									UNKNOWN
-Solvor	solvor.com	tech_general	v5									UNKNOWN
-Solvora	solvora.com	tech_short	v3									UNKNOWN
-Solwave	solwave.com	tech_general	v4									UNKNOWN
+Solvik	solvik.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Solvor	solvor.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Solvora	solvora.com	tech_short	v3	TAKEN				0	0	0		TAKEN
+Solwave	solwave.com	tech_general	v4	TAKEN				0	0	0		TAKEN
 Solwright	solwright.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Sondaria	sondaria.com	pro_invented_long	v1									UNKNOWN
-Sondell	sondell.com	tech_mid	v3									UNKNOWN
+Sondaria	sondaria.com	pro_invented_long	v1	TAKEN				0	0	0		TAKEN
+Sondell	sondell.com	tech_mid	v3	TAKEN				0	0	0		TAKEN
 Sondervic	sondervic.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Sondex	sondex.com	short_invented	v5,v6	TAKEN				0	2	2	LES PLASTIQUES SONDEX INC. SONDEX PLASTI (Dissolved for non-co)	TAKEN
-Sondor	sondor.com	enterprise_invented	v2									UNKNOWN
+Sondor	sondor.com	enterprise_invented	v2	TAKEN				0	1	1	LES DISQUES SONDOR INC. (Dissolved for non-co)	TAKEN
 Sondrik	sondrik.com	pro_invented_short	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Soraxis	soraxis.com	tech_latin_abstract	v3									UNKNOWN
-Sorben	sorben.com	modern_abstract	v1									UNKNOWN
-Sorenta	sorenta.com	enterprise_invented	v2									UNKNOWN
-Sorven	sorven.com	pro_invented_short	v1									UNKNOWN
-Sorvo	sorvo.com	tech_short	v3									UNKNOWN
+Soraxis	soraxis.com	tech_latin_abstract	v3	TAKEN				0	0	0		TAKEN
+Sorben	sorben.com	modern_abstract	v1	TAKEN				0	0	0		TAKEN
+Sorenta	sorenta.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
+Sorven	sorven.com	pro_invented_short	v1	TAKEN				0	0	0		TAKEN
+Sorvo	sorvo.com	tech_short	v3	TAKEN				0	0	0		TAKEN
 Southbrook	southbrook.com	two_word	v6	TAKEN				0	0	0		TAKEN
-Spartancore	spartancore.com	greek_roman_chad	v2									UNKNOWN
-Spartanforge	spartanforge.com	greek_roman_chad	v2									UNKNOWN
-Spartanvault	spartanvault.com	greek_roman_chad	v2									UNKNOWN
-Spartanworks	spartanworks.com	greek_roman_chad	v2									UNKNOWN
+Spartancore	spartancore.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
+Spartanforge	spartanforge.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
+Spartanvault	spartanvault.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
+Spartanworks	spartanworks.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
 Srovendel	srovendel.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Standford	standford.com	two_word_pro	v1									UNKNOWN
+Standford	standford.com	two_word_pro	v1	TAKEN				0	0	0		TAKEN
 Standpath	standpath.com	two_word_pro	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Steadfield	steadfield.com	tech_general	v5									UNKNOWN
-Steadport	steadport.com	tech_general	v5									UNKNOWN
-Steadridge	steadridge.com	tech_general	v5									UNKNOWN
-Steadstone	steadstone.com	tech_general	v5									UNKNOWN
-Steadwell	steadwell.com	tech_general	v5									UNKNOWN
-Steadwright	steadwright.com	two_word_pro	v1									UNKNOWN
-Steadyline	steadyline.com	two_word_pro	v1									UNKNOWN
+Steadfield	steadfield.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Steadport	steadport.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Steadridge	steadridge.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Steadstone	steadstone.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Steadwell	steadwell.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Steadwright	steadwright.com	two_word_pro	v1	TAKEN				0	0	0		TAKEN
+Steadyline	steadyline.com	two_word_pro	v1	TAKEN				0	0	0		TAKEN
 Steadyport	steadyport.com	two_word	v6	TAKEN				0	0	0		TAKEN
 Steelmere	steelmere.com	two_word	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Stelandel	stelandel.com	enterprise_invented	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Stelandor	stelandor.com	tech_mid	v3									UNKNOWN
+Stelandor	stelandor.com	tech_mid	v3	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Stelanence	stelanence.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Stelant	stelant.com	tech_modern	v3									UNKNOWN
+Stelant	stelant.com	tech_modern	v3	TAKEN				0	0	0		TAKEN
 Stelanta	stelanta.com	enterprise_invented	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Stelantheria	stelantheria.com	tech_general	v4									UNKNOWN
-Stelare	stelare.com	tech_modern	v3									UNKNOWN
-Stelarica	stelarica.com	tech_general	v4									UNKNOWN
-Stelaris	stelaris.com	tech_general	v5									UNKNOWN
-Stelaros	stelaros.com	tech_general	v4									UNKNOWN
+Stelantheria	stelantheria.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Stelare	stelare.com	tech_modern	v3	TAKEN				0	0	0		TAKEN
+Stelarica	stelarica.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Stelaris	stelaris.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Stelaros	stelaros.com	tech_general	v4	TAKEN				0	0	0		TAKEN
 Stelatial	stelatial.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Stelatic	stelatic.com	tech_general	v4									UNKNOWN
-Stelatide	stelatide.com	tech_general	v4									UNKNOWN
+Stelatic	stelatic.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Stelatide	stelatide.com	tech_general	v4	TAKEN				0	0	0		TAKEN
 Stelatier	stelatier.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Stelavos	stelavos.com	tech_general	v4									UNKNOWN
-Stelbase	stelbase.com	tech_modern	v3									UNKNOWN
+Stelavos	stelavos.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Stelbase	stelbase.com	tech_modern	v3	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Stelbaxis	stelbaxis.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Stelbonia	stelbonia.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Steldanti	steldanti.com	tech_modern	v3									UNKNOWN
+Steldanti	steldanti.com	tech_modern	v3	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Steldek	steldek.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Steldord	steldord.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Steldova	steldova.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Steldroma	steldroma.com	tech_general	v4									UNKNOWN
+Steldroma	steldroma.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Steldron	steldron.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Steleska	steleska.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Stelesta	stelesta.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Stelina	stelina.com	enterprise_invented	v2									UNKNOWN
-Stelinova	stelinova.com	tech_general	v4									UNKNOWN
-Stelitheon	stelitheon.com	tech_general	v4									UNKNOWN
+Stelina	stelina.com	enterprise_invented	v2	TAKEN				1	0	1	Gestion Stelina Inc. Stelina Holdings In (Active)	TAKEN
+Stelinova	stelinova.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Stelitheon	stelitheon.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Stelivity	stelivity.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Stelmar	stelmar.com	pro_invented_short	v1									UNKNOWN
+Stelmar	stelmar.com	pro_invented_short	v1	TAKEN				1	0	1	First Stelmar Properties Corporation (Active)	TAKEN
 Stelmex	stelmex.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Stelnor	stelnor.com	pro_invented_short	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Stelo	stelo.com	tech_short	v3									UNKNOWN
-Stelodex	stelodex.com	tech_general	v4									UNKNOWN
-Stelometric	stelometric.com	tech_general	v4									UNKNOWN
-Stelonex	stelonex.com	tech_general	v4									UNKNOWN
-Stelora	stelora.com	tech_short	v3									UNKNOWN
-Stelorant	stelorant.com	tech_general	v4									UNKNOWN
-Steloria	steloria.com	tech_general	v5									UNKNOWN
-Stelorica	stelorica.com	tech_general	v4									UNKNOWN
-Stelostra	stelostra.com	tech_general	v4									UNKNOWN
+Stelo	stelo.com	tech_short	v3	TAKEN				2	1	3	NORDA STELO INC. (Active)	TAKEN
+Stelodex	stelodex.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Stelometric	stelometric.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Stelonex	stelonex.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Stelora	stelora.com	tech_short	v3	TAKEN				0	0	0		TAKEN
+Stelorant	stelorant.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Steloria	steloria.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Stelorica	stelorica.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Stelostra	stelostra.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Stelovaris	stelovaris.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Stelpath	stelpath.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Stelpeak	stelpeak.com	tech_general	v4									UNKNOWN
+Stelpeak	stelpeak.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Stelplex	stelplex.com	compound_modern	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Stelraxis	stelraxis.com	tech_latin_abstract	v3									UNKNOWN
+Stelraxis	stelraxis.com	tech_latin_abstract	v3	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Stelridge	stelridge.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Stelriver	stelriver.com	tech_general	v4									UNKNOWN
-Stelsummit	stelsummit.com	tech_general	v4									UNKNOWN
-Steltor	steltor.com	tech_general	v5									UNKNOWN
+Stelriver	stelriver.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Stelsummit	stelsummit.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Steltor	steltor.com	tech_general	v5	TAKEN				2	0	2	STELTOR CORPORATION CORPORATION STELTOR (Active)	TAKEN
 Stelvant	stelvant.com	compound_modern	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Stelvarin	stelvarin.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Stelvarra	stelvarra.com	pro_invented_long	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Stelvedos	stelvedos.com	enterprise_invented	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Stelven	stelven.com	pro_invented_short	v1									UNKNOWN
-Stelveriant	stelveriant.com	tech_general	v4									UNKNOWN
+Stelven	stelven.com	pro_invented_short	v1	TAKEN				0	0	0		TAKEN
+Stelveriant	stelveriant.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Stelveric	stelveric.com	enterprise_invented	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Stelveris	stelveris.com	enterprise_invented	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Stelveritas	stelveritas.com	tech_latin_abstract	v3									UNKNOWN
-Stelverith	stelverith.com	tech_general	v4									UNKNOWN
-Stelvex	stelvex.com	compound_modern	v1									UNKNOWN
-Stelvik	stelvik.com	tech_general	v5									UNKNOWN
+Stelveritas	stelveritas.com	tech_latin_abstract	v3	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Stelverith	stelverith.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Stelvex	stelvex.com	compound_modern	v1	TAKEN				0	0	0		TAKEN
+Stelvik	stelvik.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Stelvonia	stelvonia.com	pro_invented_long	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Stelvra	stelvra.com	pro_invented_short	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Stelwave	stelwave.com	tech_general	v4									UNKNOWN
+Stelwave	stelwave.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Stelwright	stelwright.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Stenveritas	stenveritas.com	tech_latin_abstract	v3									UNKNOWN
-Stenvex	stenvex.com	compound_modern	v1									UNKNOWN
-Stenwell	stenwell.com	pro_invented_short	v1									UNKNOWN
-Stillfield	stillfield.com	tech_general	v5									UNKNOWN
-Stillgate	stillgate.com	two_word_pro	v1									UNKNOWN
+Stenveritas	stenveritas.com	tech_latin_abstract	v3	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Stenvex	stenvex.com	compound_modern	v1	TAKEN				0	0	0		TAKEN
+Stenwell	stenwell.com	pro_invented_short	v1	TAKEN				0	0	0		TAKEN
+Stillfield	stillfield.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Stillgate	stillgate.com	two_word_pro	v1	TAKEN				0	0	0		TAKEN
 Stillgrove	stillgrove.com	two_word	v6	TAKEN				0	0	0		TAKEN
-Stillport	stillport.com	tech_general	v5									UNKNOWN
-Stillridge	stillridge.com	tech_general	v5									UNKNOWN
-Stillstone	stillstone.com	tech_general	v5									UNKNOWN
-Stillwell	stillwell.com	tech_general	v5									UNKNOWN
+Stillport	stillport.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Stillridge	stillridge.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Stillstone	stillstone.com	tech_general	v5	TAKEN				1	0	1	StillStone Capital inc. (Active)	TAKEN
+Stillwell	stillwell.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Stoneforge	stoneforge.com	two_word	v6	TAKEN				0	1	1	STONEFORGE CONSTRUCTION INC. (Dissolved for non-co)	TAKEN
-Stoneline	stoneline.com	two_word_pro	v1									UNKNOWN
+Stoneline	stoneline.com	two_word_pro	v1	TAKEN				1	0	1	Sam StoneLine Construction & Restoration (Active)	TAKEN
 Stradenia	stradenia.com	pro_invented_long	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Stradivor	stradivor.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Stradon	stradon.com	pro_invented_short	v1									UNKNOWN
-Stradonia	stradonia.com	tech_general	v4									UNKNOWN
-Stradorial	stradorial.com	tech_general	v4									UNKNOWN
-Stradox	stradox.com	tech_general	v5									UNKNOWN
-Stradyne	stradyne.com	pro_invented_short	v1									UNKNOWN
-Strandel	strandel.com	pro_invented_short	v1									UNKNOWN
-Strathmore	strathmore.com	pro_invented_long	v1									UNKNOWN
+Stradon	stradon.com	pro_invented_short	v1	TAKEN				0	0	0		TAKEN
+Stradonia	stradonia.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Stradorial	stradorial.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Stradox	stradox.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Stradyne	stradyne.com	pro_invented_short	v1	TAKEN				0	0	0		TAKEN
+Strandel	strandel.com	pro_invented_short	v1	TAKEN				0	0	0		TAKEN
+Strathmore	strathmore.com	pro_invented_long	v1	TAKEN				7	4	11	STRATHMORE ANTIQUES INC. ANTIQUITÉS STRA (Dissolved for non-co)	TAKEN
 StreetsvilleCraft	streetsvillecraft.com	geographic	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 StreetsvilleLabs	streetsvillelabs.com	geographic	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Strendaroth	strendaroth.com	tech_general	v4									UNKNOWN
-Strexora	strexora.com	tech_short	v3									UNKNOWN
-Strident	strident.com	compound_modern	v1									UNKNOWN
-Stridmar	stridmar.com	tech_general	v4									UNKNOWN
+Strendaroth	strendaroth.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Strexora	strexora.com	tech_short	v3	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Strident	strident.com	compound_modern	v1	TAKEN				1	1	2	Strident Films, Inc. (Dissolved by the cor)	TAKEN
+Stridmar	stridmar.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Strongport	strongport.com	two_word	v6	TAKEN				0	0	0		TAKEN
-Strydor	strydor.com	tech_general	v4									UNKNOWN
-Strydora	strydora.com	tech_general	v4									UNKNOWN
-Strynt	strynt.com	enterprise_invented	v2									UNKNOWN
+Strydor	strydor.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Strydora	strydora.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Strynt	strynt.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
 Syntavex	syntavex.com	pro_invented_short	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Synthar	synthar.com	tech_latin_abstract	v3									UNKNOWN
-Synthex	synthex.com	tech_mid	v3									UNKNOWN
-Talverin	talverin.com	tech_general	v5									UNKNOWN
-Talvex	talvex.com	modern_abstract	v1									UNKNOWN
-Tarendor	tarendor.com	tech_general	v4									UNKNOWN
-Tarvor	tarvor.com	tech_general	v5									UNKNOWN
-Tarvora	tarvora.com	tech_general	v5									UNKNOWN
-Tendora	tendora.com	pro_invented_short	v1									UNKNOWN
+Synthar	synthar.com	tech_latin_abstract	v3	TAKEN				0	0	0		TAKEN
+Synthex	synthex.com	tech_mid	v3	TAKEN				1	0	1	Synthex Software Inc. (Active)	TAKEN
+Talverin	talverin.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Talvex	talvex.com	modern_abstract	v1	TAKEN				0	0	0		TAKEN
+Tarendor	tarendor.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Tarvor	tarvor.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Tarvora	tarvora.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Tendora	tendora.com	pro_invented_short	v1	TAKEN				0	0	0		TAKEN
 Tendrin	tendrin.com	pro_invented_short	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Tendrium	tendrium.com	pro_invented_long	v1									UNKNOWN
+Tendrium	tendrium.com	pro_invented_long	v1	TAKEN				0	0	0		TAKEN
 Tendro	tendro.com	short_invented	v6	TAKEN				0	0	0		TAKEN
 Tervanis	tervanis.com	latin_long	v6	TAKEN				0	0	0		TAKEN
 Tigerclad	tigerclad.com	moggy_sigma	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Tigerforge	tigerforge.com	moggy_sigma	v2									UNKNOWN
+Tigerforge	tigerforge.com	moggy_sigma	v2	TAKEN				0	0	0		TAKEN
 Tovaron	tovaron.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Travidor	travidor.com	tech_general	v4									UNKNOWN
+Travidor	travidor.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Trendvaris	trendvaris.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Trevandos	trevandos.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Trevant	trevant.com	modern_abstract	v1									UNKNOWN
-Trevarith	trevarith.com	tech_general	v4									UNKNOWN
-Trevarra	trevarra.com	tech_general	v4									UNKNOWN
+Trevant	trevant.com	modern_abstract	v1	TAKEN				0	0	0		TAKEN
+Trevarith	trevarith.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Trevarra	trevarra.com	tech_general	v4	TAKEN				0	0	0		TAKEN
 Trevelta	trevelta.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Trevidor	trevidor.com	tech_general	v4									UNKNOWN
-Triada	triada.com	tech_latin_abstract	v3									UNKNOWN
+Trevidor	trevidor.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Triada	triada.com	tech_latin_abstract	v3	TAKEN				0	0	0		TAKEN
 Triton34	triton34.com	greek_roman_chad	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Tritonforge	tritonforge.com	greek_roman_chad	v2									UNKNOWN
-Tritonridge	tritonridge.com	greek_roman_chad	v2									UNKNOWN
-Tritonworks	tritonworks.com	greek_roman_chad	v2									UNKNOWN
+Tritonforge	tritonforge.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
+Tritonridge	tritonridge.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
+Tritonworks	tritonworks.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
 Trovendel	trovendel.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Truefield	truefield.com	tech_general	v5									UNKNOWN
+Truefield	truefield.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Truepath	truepath.com	two_word	v6	TAKEN				2	0	2	TruePath Healthcare  Corporation (Active)	TAKEN
-Trueport	trueport.com	tech_general	v5									UNKNOWN
-Trueridge	trueridge.com	tech_general	v5									UNKNOWN
-Truestone	truestone.com	tech_general	v5									UNKNOWN
-Truewell	truewell.com	tech_general	v5									UNKNOWN
+Trueport	trueport.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Trueridge	trueridge.com	tech_general	v5	TAKEN				1	0	1	TrueRidge Holdings Inc. (Active)	TAKEN
+Truestone	truestone.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Truewell	truewell.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Truewright	truewright.com	two_word_pro	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Trustforge	trustforge.com	two_word	v6	TAKEN				0	0	0		TAKEN
-Trustline	trustline.com	two_word_pro	v1									UNKNOWN
-Ulvarist	ulvarist.com	tech_general	v4									UNKNOWN
+Trustline	trustline.com	two_word_pro	v1	TAKEN				7	0	7	Trustline Consulting Inc. (Active)	TAKEN
+Ulvarist	ulvarist.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Ulvenarith	ulvenarith.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Urovendel	urovendel.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Urvendor	urvendor.com	latin_long	v6	TAKEN				0	0	0		TAKEN
 Uvendrik	uvendrik.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Uvron	uvron.com	tech_general	v5									UNKNOWN
-Vanora	vanora.com	tech_mid	v3									UNKNOWN
-Vanto	vanto.com	tech_short	v3									UNKNOWN
-Varenza	varenza.com	enterprise_invented	v2									UNKNOWN
+Uvron	uvron.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Vanora	vanora.com	tech_mid	v3	TAKEN				0	0	0		TAKEN
+Vanto	vanto.com	tech_short	v3	TAKEN				0	0	0		TAKEN
+Varenza	varenza.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
 Veldox	veldox.com	short_invented	v6	TAKEN				0	0	0		TAKEN
-Veldris	veldris.com	pro_invented_short	v1									UNKNOWN
-Vellum	vellum.com	pro_invented_short	v1									UNKNOWN
+Veldris	veldris.com	pro_invented_short	v1	TAKEN				0	0	0		TAKEN
+Vellum	vellum.com	pro_invented_short	v1	TAKEN				3	0	3	Vellum Living Inc. (Active)	TAKEN
 Velmara	velmara.com	modern_startup	v6	TAKEN				0	0	0		TAKEN
-Velmark	velmark.com	pro_invented_short	v1									UNKNOWN
-Velnex	velnex.com	compound_modern	v1									UNKNOWN
-Velnix	velnix.com	pro_invented_short	v1									UNKNOWN
-Velorra	velorra.com	pro_invented_short	v1									UNKNOWN
+Velmark	velmark.com	pro_invented_short	v1	TAKEN				0	1	1	VELMARK ENTERPRISES CORP. (Dissolved for non-co)	TAKEN
+Velnex	velnex.com	compound_modern	v1	TAKEN				0	0	0		TAKEN
+Velnix	velnix.com	pro_invented_short	v1	TAKEN				0	0	0		TAKEN
+Velorra	velorra.com	pro_invented_short	v1	TAKEN				0	0	0		TAKEN
 Velvarith	velvarith.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Velvix	velvix.com	short_invented	v6	TAKEN				0	0	0		TAKEN
 Velvor	velvor.com	short_invented	v6	TAKEN				0	0	0		TAKEN
 Vendanence	vendanence.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Vendantheria	vendantheria.com	tech_general	v4									UNKNOWN
+Vendantheria	vendantheria.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Vendara	vendara.com	modern_startup	v3,v6	TAKEN				0	0	0		TAKEN
-Vendaris	vendaris.com	tech_general	v5									UNKNOWN
-Vendarist	vendarist.com	tech_general	v4									UNKNOWN
+Vendaris	vendaris.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Vendarist	vendarist.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Vendarith	vendarith.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Vendaron	vendaron.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Vendaros	vendaros.com	tech_general	v4									UNKNOWN
-Vendaroth	vendaroth.com	tech_general	v4									UNKNOWN
+Vendaros	vendaros.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Vendaroth	vendaroth.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Vendatial	vendatial.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Vendatic	vendatic.com	tech_general	v4									UNKNOWN
-Vendatide	vendatide.com	tech_general	v4									UNKNOWN
-Vendatier	vendatier.com	tech_general	v5									UNKNOWN
-Vendavos	vendavos.com	tech_general	v4									UNKNOWN
-Venddroma	venddroma.com	tech_general	v4									UNKNOWN
-Vendivity	vendivity.com	tech_general	v5									UNKNOWN
+Vendatic	vendatic.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Vendatide	vendatide.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Vendatier	vendatier.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Vendavos	vendavos.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Venddroma	venddroma.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Vendivity	vendivity.com	tech_general	v5	TAKEN				0	0	0		TAKEN
 Vendix	vendix.com	short_invented	v6	TAKEN				0	0	0		TAKEN
-Vendodex	vendodex.com	tech_general	v4									UNKNOWN
-Vendometric	vendometric.com	tech_general	v4									UNKNOWN
-Vendonex	vendonex.com	tech_general	v4									UNKNOWN
-Vendora	vendora.com	pro_invented_short	v1									UNKNOWN
-Vendoria	vendoria.com	tech_general	v5									UNKNOWN
-Vendtor	vendtor.com	tech_general	v5									UNKNOWN
-Vendveriant	vendveriant.com	tech_general	v4									UNKNOWN
-Vendverith	vendverith.com	tech_general	v4									UNKNOWN
-Vendvor	vendvor.com	tech_general	v5									UNKNOWN
-Vendwave	vendwave.com	tech_general	v4									UNKNOWN
-Veox	veox.com	tech_short	v3									UNKNOWN
+Vendodex	vendodex.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Vendometric	vendometric.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Vendonex	vendonex.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Vendora	vendora.com	pro_invented_short	v1	TAKEN				0	0	0		TAKEN
+Vendoria	vendoria.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Vendtor	vendtor.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Vendveriant	vendveriant.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Vendverith	vendverith.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Vendvor	vendvor.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Vendwave	vendwave.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Veox	veox.com	tech_short	v3	TAKEN				0	0	0		TAKEN
 Verandel	verandel.com	enterprise_invented	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Verandil	verandil.com	enterprise_invented	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Verant	verant.com	compound_modern	v1									UNKNOWN
-Veranta	veranta.com	enterprise_invented	v2									UNKNOWN
+Verant	verant.com	compound_modern	v1	TAKEN				0	0	0		TAKEN
+Veranta	veranta.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
 Veranthia	veranthia.com	pro_invented_long	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Veranthor	veranthor.com	pro_invented_long	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Veranthos	veranthos.com	enterprise_invented	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Veranza	veranza.com	enterprise_invented	v2									UNKNOWN
+Veranza	veranza.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
 Verax	verax.com	short_invented	v6	TAKEN				1	1	2	VERAX HOLDINGS LTD. LES PLACEMENTS VERAX (Dissolved for non-co)	TAKEN
-Verbase	verbase.com	tech_general	v4									UNKNOWN
-Verbaxis	verbaxis.com	tech_general	v5									UNKNOWN
-Verbonia	verbonia.com	tech_general	v5									UNKNOWN
-Vercive	vercive.com	enterprise_invented	v2									UNKNOWN
-Vercore	vercore.com	tech_general	v4									UNKNOWN
-Verdek	verdek.com	tech_general	v5									UNKNOWN
+Verbase	verbase.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Verbaxis	verbaxis.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Verbonia	verbonia.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Vercive	vercive.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
+Vercore	vercore.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Verdek	verdek.com	tech_general	v5	TAKEN				0	1	1	BOIS & PLASTIQUE VERDEK INC. VERDEK WOOD (Dissolved for non-co)	TAKEN
 Verdivex	verdivex.com	compound_modern	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Verdord	verdord.com	tech_general	v5									UNKNOWN
-Verdova	verdova.com	tech_general	v5									UNKNOWN
-Verendel	verendel.com	pro_invented_short	v1									UNKNOWN
+Verdord	verdord.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Verdova	verdova.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Verendel	verendel.com	pro_invented_short	v1	TAKEN				0	0	0		TAKEN
 Verendola	verendola.com	pro_invented_long	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Verenta	verenta.com	enterprise_invented	v2									UNKNOWN
-Veresca	veresca.com	tech_general	v5									UNKNOWN
-Vergrid	vergrid.com	tech_general	v4									UNKNOWN
-Veridian	veridian.com	enterprise_invented	v2									UNKNOWN
-Veridicta	veridicta.com	enterprise_invented	v2									UNKNOWN
-Veridos	veridos.com	enterprise_invented	v2									UNKNOWN
-Verita	verita.com	tech_mid	v3									UNKNOWN
-Veritalis	veritalis.com	tech_latin_abstract	v3									UNKNOWN
-Veritarian	veritarian.com	tech_general	v4									UNKNOWN
-Verith	verith.com	pro_invented_short	v1									UNKNOWN
-Veritor	veritor.com	enterprise_invented	v2									UNKNOWN
-Verlare	verlare.com	tech_modern	v3									UNKNOWN
-Verlight	verlight.com	tech_general	v4									UNKNOWN
+Verenta	verenta.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
+Veresca	veresca.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Vergrid	vergrid.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Veridian	veridian.com	enterprise_invented	v2	TAKEN				6	1	7	Veridian Inc. (Dissolved for non-co)	TAKEN
+Veridicta	veridicta.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
+Veridos	veridos.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
+Verita	verita.com	tech_mid	v3	TAKEN				1	0	1	SK-Verita Consulting Inc. (Active)	TAKEN
+Veritalis	veritalis.com	tech_latin_abstract	v3	TAKEN				0	0	0		TAKEN
+Veritarian	veritarian.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Verith	verith.com	pro_invented_short	v1	TAKEN				0	0	0		TAKEN
+Veritor	veritor.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
+Verlare	verlare.com	tech_modern	v3	TAKEN				0	0	0		TAKEN
+Verlight	verlight.com	tech_general	v4	TAKEN				0	0	0		TAKEN
 Verlin	verlin.com	short_invented	v6	TAKEN				0	0	0		TAKEN
 Vermarrick	vermarrick.com	pro_invented_long	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Vermont	vermont.com	pro_invented_short	v1									UNKNOWN
+Vermont	vermont.com	pro_invented_short	v1	TAKEN				2	6	8	MONTREAL NEW YORK VERMONT PROPERTIES (MN (Dissolved by the cor)	TAKEN
 Vernath	vernath.com	pro_invented_short	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Verond	verond.com	pro_invented_short	v1	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Verprime	verprime.com	tech_general	v4									UNKNOWN
-Vespor	vespor.com	enterprise_invented	v2									UNKNOWN
-Vetrix	vetrix.com	tech_general	v5									UNKNOWN
-Vexa	vexa.com	tech_short	v3									UNKNOWN
-Vexora	vexora.com	tech_short	v3									UNKNOWN
-Vidanti	vidanti.com	tech_modern	v3									UNKNOWN
-Vinrose	vinrose.com	enterprise_invented	v2									UNKNOWN
-Vivanta	vivanta.com	enterprise_invented	v2									UNKNOWN
-Vivara	vivara.com	enterprise_invented	v2									UNKNOWN
-Volnareth	volnareth.com	tech_general	v4									UNKNOWN
-Vorant	vorant.com	tech_modern	v3									UNKNOWN
-Vorel	vorel.com	modern_abstract	v1									UNKNOWN
-Vorenrik	vorenrik.com	tech_general	v5									UNKNOWN
-Vorenta	vorenta.com	modern_abstract	v1									UNKNOWN
-Vorindel	vorindel.com	tech_general	v4									UNKNOWN
-Vornara	vornara.com	tech_general	v4									UNKNOWN
-Vornelta	vornelta.com	tech_general	v4									UNKNOWN
-Vortexa	vortexa.com	tech_mid	v3									UNKNOWN
-Vrendar	vrendar.com	tech_general	v5									UNKNOWN
-Vrexa	vrexa.com	enterprise_invented	v2									UNKNOWN
-Vrovendel	vrovendel.com	tech_general	v5									UNKNOWN
-Vulcanforge	vulcanforge.com	greek_roman_chad	v2									UNKNOWN
-Vulcanworks	vulcanworks.com	greek_roman_chad	v2									UNKNOWN
-Vurent	vurent.com	modern_abstract	v1									UNKNOWN
-Wellfield	wellfield.com	two_word_pro	v1									UNKNOWN
-Wellpath	wellpath.com	two_word_pro	v1									UNKNOWN
-Welvarith	welvarith.com	tech_general	v5									UNKNOWN
-Welvarum	welvarum.com	tech_general	v5									UNKNOWN
-Welvor	welvor.com	tech_general	v5									UNKNOWN
+Verprime	verprime.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Vespor	vespor.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
+Vetrix	vetrix.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Vexa	vexa.com	tech_short	v3	TAKEN				0	1	1	VEXA PRINT, CANADA INC. (Dissolved for non-co)	TAKEN
+Vexora	vexora.com	tech_short	v3	TAKEN				2	0	2	Vexora closet Inc. (Active)	TAKEN
+Vidanti	vidanti.com	tech_modern	v3	TAKEN				0	0	0		TAKEN
+Vinrose	vinrose.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
+Vivanta	vivanta.com	enterprise_invented	v2	TAKEN				1	0	1	Vivanta Ceramic Canada Inc. (Active)	TAKEN
+Vivara	vivara.com	enterprise_invented	v2	TAKEN				0	1	1	VIVARA FASHIONS CANADA INC. (Dissolved for non-co)	TAKEN
+Volnareth	volnareth.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Vorant	vorant.com	tech_modern	v3	TAKEN				0	0	0		TAKEN
+Vorel	vorel.com	modern_abstract	v1	TAKEN				0	0	0		TAKEN
+Vorenrik	vorenrik.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Vorenta	vorenta.com	modern_abstract	v1	TAKEN				0	0	0		TAKEN
+Vorindel	vorindel.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Vornara	vornara.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Vornelta	vornelta.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Vortexa	vortexa.com	tech_mid	v3	TAKEN				0	0	0		TAKEN
+Vrendar	vrendar.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Vrexa	vrexa.com	enterprise_invented	v2	TAKEN				0	0	0		TAKEN
+Vrovendel	vrovendel.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Vulcanforge	vulcanforge.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
+Vulcanworks	vulcanworks.com	greek_roman_chad	v2	TAKEN				0	0	0		TAKEN
+Vurent	vurent.com	modern_abstract	v1	TAKEN				0	0	0		TAKEN
+Wellfield	wellfield.com	two_word_pro	v1	TAKEN				0	0	0		TAKEN
+Wellpath	wellpath.com	two_word_pro	v1	TAKEN				0	0	0		TAKEN
+Welvarith	welvarith.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Welvarum	welvarum.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Welvor	welvor.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Wendraris	wendraris.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Wenivok	wenivok.com	tech_general	v4									UNKNOWN
+Wenivok	wenivok.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Westgrove	westgrove.com	two_word	v6	TAKEN				1	0	1	Westgrove Design Ltd. (Active)	TAKEN
-Wolfclad	wolfclad.com	moggy_sigma	v2									UNKNOWN
-Wolfgrid	wolfgrid.com	moggy_sigma	v2									UNKNOWN
-Wolfridge	wolfridge.com	moggy_sigma	v2									UNKNOWN
+Wolfclad	wolfclad.com	moggy_sigma	v2	TAKEN				0	0	0		TAKEN
+Wolfgrid	wolfgrid.com	moggy_sigma	v2	TAKEN				0	0	0		TAKEN
+Wolfridge	wolfridge.com	moggy_sigma	v2	TAKEN				1	0	1	Wolfridge Capital Holdings Inc. (Active)	TAKEN
 Wolfsavage	wolfsavage.com	moggy_sigma	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Wolfthrust	wolfthrust.com	moggy_sigma	v2	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Wrovendel	wrovendel.com	tech_general	v5									UNKNOWN
-Xenardel	xenardel.com	tech_general	v5									UNKNOWN
-Xenarith	xenarith.com	tech_general	v4									UNKNOWN
+Wrovendel	wrovendel.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Xenardel	xenardel.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Xenarith	xenarith.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Xervanth	xervanth.com	latin_long	v6	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
-Yandrik	yandrik.com	tech_general	v5									UNKNOWN
+Yandrik	yandrik.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
 Yorvenix	yorvenix.com	latin_long	v6	TAKEN				0	0	0		TAKEN
-Yrovendel	yrovendel.com	tech_general	v5									UNKNOWN
-Yvenarist	yvenarist.com	tech_general	v5									UNKNOWN
-Yvenor	yvenor.com	tech_general	v5									UNKNOWN
-Yvenova	yvenova.com	tech_general	v4									UNKNOWN
-Yvenvor	yvenvor.com	tech_general	v5									UNKNOWN
-Yvora	yvora.com	tech_general	v4									UNKNOWN
-Yvorant	yvorant.com	tech_general	v4									UNKNOWN
-Zelandros	zelandros.com	tech_general	v5									UNKNOWN
-Zelendar	zelendar.com	tech_general	v5									UNKNOWN
-Zelvarith	zelvarith.com	tech_general	v4									UNKNOWN
-Zerendrik	zerendrik.com	tech_general	v5									UNKNOWN
-Zerivor	zerivor.com	tech_general	v5									UNKNOWN
-Zordara	zordara.com	tech_general	v4									UNKNOWN
-Zordwell	zordwell.com	tech_general	v4									UNKNOWN
-Zrovendel	zrovendel.com	tech_general	v5									UNKNOWN
+Yrovendel	yrovendel.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Yvenarist	yvenarist.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Yvenor	yvenor.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Yvenova	yvenova.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Yvenvor	yvenvor.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Yvora	yvora.com	tech_general	v4	TAKEN				0	1	1	Yvora Corporation (Dissolved for non-co)	TAKEN
+Yvorant	yvorant.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Zelandros	zelandros.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Zelendar	zelendar.com	tech_general	v5	TAKEN				0	0	0		TAKEN
+Zelvarith	zelvarith.com	tech_general	v4	TAKEN				0	0	0		TAKEN
+Zerendrik	zerendrik.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Zerivor	zerivor.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Zordara	zordara.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Zordwell	zordwell.com	tech_general	v4	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR
+Zrovendel	zrovendel.com	tech_general	v5	AVAILABLE	11.08	11.08	no	0	0	0		CLEAR

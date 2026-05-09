@@ -1,0 +1,309 @@
+/Users/janchinapoo/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[run_unknowns] loaded 689 UNKNOWN names from master
+
+=== STEP A: WHOIS .com on 689 names ===
+  whois 100/689  (0s)
+  whois 200/689  (1s)
+  whois 300/689  (1s)
+  whois 400/689  (1s)
+  whois 500/689  (1s)
+  whois 600/689  (2s)
+  whois done in 1.8s  AVAILABLE=127  TAKEN=562  other=0
+
+=== STEP B: federal corp search on 689 names ===
+  fed 25/689  (1s)
+  fed 50/689  (1s)
+  fed 75/689  (6s)
+  fed 100/689  (7s)
+  fed 125/689  (11s)
+  fed 150/689  (12s)
+  fed 175/689  (13s)
+  fed 200/689  (17s)
+  fed 225/689  (18s)
+  fed 250/689  (22s)
+  fed 275/689  (23s)
+  fed 300/689  (24s)
+  fed 325/689  (29s)
+  fed 350/689  (30s)
+  fed 375/689  (33s)
+  fed 400/689  (35s)
+  fed 425/689  (37s)
+  fed 450/689  (40s)
+  fed 475/689  (42s)
+  fed 500/689  (45s)
+  fed 525/689  (46s)
+  fed 550/689  (50s)
+  fed 575/689  (51s)
+  fed 600/689  (53s)
+  fed 625/689  (56s)
+  fed 650/689  (58s)
+  fed 675/689  (61s)
+  fed done in 61.9s
+  wrote /Users/janchinapoo/max/incorp/data/verified_v7.tsv
+
+=== STEP D: Porkbun pricing on 127 survivors (rate-limited 1 / 10.5s, ~22.2 min) ===
+  [  1/127] Caldanti           caldanti.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+  [  2/127] Calraxis           calraxis.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+  [  3/127] Calveritas         calveritas.com               avail=yes $11.08/yr renew=$11.08 prem=no
+  [  4/127] Cendore            cendore.com                  avail=yes $11.08/yr renew=$11.08 prem=no
+  [  5/127] Karraxis           karraxis.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+  [  6/127] Karveritas         karveritas.com               avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 2s
+  [  7/127] Krenant            krenant.com                  avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 3s
+  [  8/127] Krendanti          krendanti.com                avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 4s
+  [  9/127] Lumraxis           lumraxis.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 5s
+  [ 10/127] Lumveritas         lumveritas.com               avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 6s
+  [ 11/127] Marideth           marideth.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 8s
+  [ 12/127] Marraxis           marraxis.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 9s
+  [ 13/127] Marveritas         marveritas.com               avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 14/127] Norandor           norandor.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 15/127] Norraxis           norraxis.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 9s
+  [ 16/127] Norvare            norvare.com                  avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 3s
+  [ 17/127] Norvdanti          norvdanti.com                avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 4s
+  [ 18/127] Norveritas         norveritas.com               avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 5s
+  [ 19/127] Olvandor           olvandor.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 6s
+  [ 20/127] Olvbase            olvbase.com                  avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 7s
+  [ 21/127] Olvdanti           olvdanti.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 9s
+  [ 22/127] Olvraxis           olvraxis.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 23/127] Pelmedora          pelmedora.com                avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 24/127] Pelvarist          pelvarist.com                avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 9s
+  [ 25/127] Plenantheria       plenantheria.com             avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 9s
+  [ 26/127] Plenarica          plenarica.com                avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 27/127] Plenaros           plenaros.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 28/127] Plenatic           plenatic.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 9s
+  [ 29/127] Plenatide          plenatide.com                avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 30/127] Plenavara          plenavara.com                avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 7s
+  [ 31/127] Plenavos           plenavos.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 6s
+  [ 32/127] Plendanti          plendanti.com                avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 9s
+  [ 33/127] Plendroma          plendroma.com                avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 34/127] Plenitheon         plenitheon.com               avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 9s
+  [ 35/127] Plenodex           plenodex.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 36/127] Plenometric        plenometric.com              avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 7s
+  [ 37/127] Plenonex           plenonex.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 8s
+  [ 38/127] Plenorant          plenorant.com                avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 9s
+  [ 39/127] Plenraxis          plenraxis.com                avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 40/127] Plenveriant        plenveriant.com              avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 8s
+  [ 41/127] Plenveritas        plenveritas.com              avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 42/127] Plenverith         plenverith.com               avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 43/127] Plenwave           plenwave.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 44/127] Plymara            plymara.com                  avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 45/127] Prendarith         prendarith.com               avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 9s
+  [ 46/127] Quintaval          quintaval.com                avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 47/127] Quintavor          quintavor.com                avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 48/127] Quorelis           quorelis.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 49/127] Quorindra          quorindra.com                avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 50/127] Sindalor           sindalor.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 51/127] Solantheria        solantheria.com              avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 7s
+  [ 52/127] Solavos            solavos.com                  avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 8s
+  [ 53/127] Soldanti           soldanti.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 9s
+  [ 54/127] Soldroma           soldroma.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 55/127] Solendros          solendros.com                avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 56/127] Solitheon          solitheon.com                avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 8s
+  [ 57/127] Solorant           solorant.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 9s
+  [ 58/127] Solveriant         solveriant.com               avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 59/127] Stelandor          stelandor.com                avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 60/127] Stelantheria       stelantheria.com             avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 9s
+  [ 61/127] Stelarica          stelarica.com                avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 62/127] Stelavos           stelavos.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 63/127] Stelbase           stelbase.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 64/127] Steldanti          steldanti.com                avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 65/127] Steldroma          steldroma.com                avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 66/127] Stelinova          stelinova.com                avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 67/127] Stelitheon         stelitheon.com               avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 68/127] Stelodex           stelodex.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 69/127] Stelometric        stelometric.com              avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 9s
+  [ 70/127] Stelonex           stelonex.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 71/127] Stelorant          stelorant.com                avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 72/127] Stelorica          stelorica.com                avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 73/127] Stelostra          stelostra.com                avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 74/127] Stelpeak           stelpeak.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 75/127] Stelraxis          stelraxis.com                avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 76/127] Stelsummit         stelsummit.com               avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 77/127] Stelveriant        stelveriant.com              avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 78/127] Stelveritas        stelveritas.com              avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 79/127] Stelverith         stelverith.com               avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 80/127] Stelwave           stelwave.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 3s
+  [ 81/127] Stenveritas        stenveritas.com              avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 8s
+  [ 82/127] Stradorial         stradorial.com               avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 83/127] Strendaroth        strendaroth.com              avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 84/127] Strexora           strexora.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 85/127] Stridmar           stridmar.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 9s
+  [ 86/127] Strydora           strydora.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 87/127] Tarendor           tarendor.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 9s
+  [ 88/127] Travidor           travidor.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 89/127] Trevarith          trevarith.com                avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 90/127] Trevidor           trevidor.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 91/127] Ulvarist           ulvarist.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 92/127] Vendantheria       vendantheria.com             avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 93/127] Vendarist          vendarist.com                avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 94/127] Vendaros           vendaros.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 7s
+  [ 95/127] Vendaroth          vendaroth.com                avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 8s
+  [ 96/127] Vendatide          vendatide.com                avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 9s
+  [ 97/127] Vendatier          vendatier.com                avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 98/127] Venddroma          venddroma.com                avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [ 99/127] Vendveriant        vendveriant.com              avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [100/127] Vendverith         vendverith.com               avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [101/127] Vendvor            vendvor.com                  avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [102/127] Verdord            verdord.com                  avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [103/127] Volnareth          volnareth.com                avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [104/127] Vorenrik           vorenrik.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [105/127] Vorindel           vorindel.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 8s
+  [106/127] Vornelta           vornelta.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [107/127] Vrendar            vrendar.com                  avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 7s
+  [108/127] Vrovendel          vrovendel.com                avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 8s
+  [109/127] Welvarith          welvarith.com                avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 9s
+  [110/127] Welvarum           welvarum.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [111/127] Welvor             welvor.com                   avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [112/127] Wenivok            wenivok.com                  avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [113/127] Wrovendel          wrovendel.com                avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [114/127] Xenardel           xenardel.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [115/127] Xenarith           xenarith.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [116/127] Yandrik            yandrik.com                  avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [117/127] Yrovendel          yrovendel.com                avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [118/127] Yvenarist          yvenarist.com                avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [119/127] Yvenova            yvenova.com                  avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [120/127] Yvenvor            yvenvor.com                  avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [121/127] Yvorant            yvorant.com                  avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [122/127] Zelandros          zelandros.com                avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [123/127] Zerendrik          zerendrik.com                avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [124/127] Zerivor            zerivor.com                  avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [125/127] Zordara            zordara.com                  avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [126/127] Zordwell           zordwell.com                 avail=yes $11.08/yr renew=$11.08 prem=no
+    rate-limit, waiting 10s
+  [127/127] Zrovendel          zrovendel.com                avail=yes $11.08/yr renew=$11.08 prem=no
+  pricing done in 25.4 min
+  wrote /Users/janchinapoo/max/incorp/data/pricing_v7.tsv
+
+=== STEP E: refreshing master_list ===
+Wrote /Users/janchinapoo/max/incorp/data/master_list.tsv (1235 unique names)
+Wrote /Users/janchinapoo/max/incorp/data/master_list.md
+By verdict:
+  CLEAR: 598
+  TAKEN: 637
+  CORP_CONFLICT: 0
+  UNKNOWN: 0
+
+ALL DONE in 26.5 min total
+  verified TSV: /Users/janchinapoo/max/incorp/data/verified_v7.tsv
+  pricing  TSV: /Users/janchinapoo/max/incorp/data/pricing_v7.tsv
+  master refreshed — re-run pick_names.py to see new CLEARs.

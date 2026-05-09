@@ -150,23 +150,27 @@ def main():
                   fed_total=r.get("fed_total"),
                   fed_sample=r.get("fed_sample"))
 
-    # v6: full RDAP-based whois_com status
-    for r in read_tsv(DATA / "verified_v6.tsv"):
-        n = r.get("name")
-        if not n:
+    # v6+: any verified_v[N>=6].tsv uses the WHOIS schema
+    for vp in sorted(DATA.glob("verified_v[0-9]*.tsv")):
+        m = re.search(r"verified_v(\d+)\.tsv$", vp.name)
+        if not m or int(m.group(1)) < 6:
             continue
-        com = (r.get("whois_com") or "").upper()
-        if not com.startswith(("AVAILABLE", "TAKEN")):
-            com = ""
-        else:
-            com = "AVAILABLE" if com.startswith("AVAILABLE") else "TAKEN"
-        merge(rows, n, name=n, domain=r.get("domain"),
-              category=r.get("category"),
-              com_status=com,
-              fed_active=r.get("fed_active"),
-              fed_dissolved=r.get("fed_dissolved"),
-              fed_total=r.get("fed_total"),
-              fed_sample=r.get("fed_sample"))
+        for r in read_tsv(vp):
+            n = r.get("name")
+            if not n:
+                continue
+            com = (r.get("whois_com") or "").upper()
+            if not com.startswith(("AVAILABLE", "TAKEN")):
+                com = ""
+            else:
+                com = "AVAILABLE" if com.startswith("AVAILABLE") else "TAKEN"
+            merge(rows, n, name=n, domain=r.get("domain"),
+                  category=r.get("category"),
+                  com_status=com,
+                  fed_active=r.get("fed_active"),
+                  fed_dissolved=r.get("fed_dissolved"),
+                  fed_total=r.get("fed_total"),
+                  fed_sample=r.get("fed_sample"))
 
     # fast_verified.tsv: fed only
     for r in read_tsv(DATA / "fast_verified.tsv"):
